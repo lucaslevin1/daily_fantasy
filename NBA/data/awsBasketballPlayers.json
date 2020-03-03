@@ -1,0 +1,1397 @@
+[
+  {
+    "Name": "Giannis Antetokounmpo",
+    "Fpts": 55.93,
+    "Position": "SF",
+    "Team": "MIL",
+    "Opponent": "CHI",
+    "Salary": "11,300",
+    "Value": 4.95
+  },
+  {
+    "Name": "Andre Drummond",
+    "Fpts": 50.88,
+    "Position": "C",
+    "Team": "DET",
+    "Opponent": "UTA",
+    "Salary": "9,600",
+    "Value": 5.3
+  },
+  {
+    "Name": "Hassan Whiteside",
+    "Fpts": 48.07,
+    "Position": "C",
+    "Team": "POR",
+    "Opponent": "PHX",
+    "Salary": "8,500",
+    "Value": 5.66
+  },
+  {
+    "Name": "Jimmy Butler",
+    "Fpts": 46.6,
+    "Position": "SG",
+    "Team": "MIA",
+    "Opponent": "WAS",
+    "Salary": "8,700",
+    "Value": 5.36
+  },
+  {
+    "Name": "Damian Lillard",
+    "Fpts": 45.76,
+    "Position": "PG",
+    "Team": "POR",
+    "Opponent": "PHX",
+    "Salary": "8,900",
+    "Value": 5.14
+  },
+  {
+    "Name": "Nikola Vucevic",
+    "Fpts": 44.01,
+    "Position": "C",
+    "Team": "ORL",
+    "Opponent": "ATL",
+    "Salary": "7,900",
+    "Value": 5.57
+  },
+  {
+    "Name": "Bam Adebayo",
+    "Fpts": 42.42,
+    "Position": "PF",
+    "Team": "MIA",
+    "Opponent": "WAS",
+    "Salary": "9,100",
+    "Value": 4.66
+  },
+  {
+    "Name": "Rudy Gobert",
+    "Fpts": 42.29,
+    "Position": "C",
+    "Team": "UTA",
+    "Opponent": "DET",
+    "Salary": "8,500",
+    "Value": 4.98
+  },
+  {
+    "Name": "Donovan Mitchell",
+    "Fpts": 40.98,
+    "Position": "SG",
+    "Team": "UTA",
+    "Opponent": "DET",
+    "Salary": "7,800",
+    "Value": 5.25
+  },
+  {
+    "Name": "Spencer Dinwiddie",
+    "Fpts": 40.91,
+    "Position": "PG",
+    "Team": "BKN",
+    "Opponent": "MIN",
+    "Salary": "8,000",
+    "Value": 5.11
+  },
+  {
+    "Name": "John Collins",
+    "Fpts": 40.1,
+    "Position": "PF",
+    "Team": "ATL",
+    "Opponent": "ORL",
+    "Salary": "8,300",
+    "Value": 4.83
+  },
+  {
+    "Name": "Zach LaVine",
+    "Fpts": 37.94,
+    "Position": "SG",
+    "Team": "CHI",
+    "Opponent": "MIL",
+    "Salary": "8,100",
+    "Value": 4.68
+  },
+  {
+    "Name": "Devin Booker",
+    "Fpts": 37.65,
+    "Position": "SG",
+    "Team": "PHX",
+    "Opponent": "POR",
+    "Salary": "7,100",
+    "Value": 5.3
+  },
+  {
+    "Name": "CJ McCollum",
+    "Fpts": 36.16,
+    "Position": "SG",
+    "Team": "POR",
+    "Opponent": "PHX",
+    "Salary": "6,900",
+    "Value": 5.24
+  },
+  {
+    "Name": "Jonathan Isaac",
+    "Fpts": 35.85,
+    "Position": "SF",
+    "Team": "ORL",
+    "Opponent": "ATL",
+    "Salary": "6,600",
+    "Value": 5.43
+  },
+  {
+    "Name": "Ricky Rubio",
+    "Fpts": 35.79,
+    "Position": "PG",
+    "Team": "PHX",
+    "Opponent": "POR",
+    "Salary": "7,400",
+    "Value": 4.84
+  },
+  {
+    "Name": "Kelly Oubre Jr.",
+    "Fpts": 35.77,
+    "Position": "SF",
+    "Team": "PHX",
+    "Opponent": "POR",
+    "Salary": "6,100",
+    "Value": 5.86
+  },
+  {
+    "Name": "Jarrett Allen",
+    "Fpts": 35.22,
+    "Position": "PF",
+    "Team": "BKN",
+    "Opponent": "MIN",
+    "Salary": "6,000",
+    "Value": 5.87
+  },
+  {
+    "Name": "Evan Fournier",
+    "Fpts": 34.09,
+    "Position": "SG",
+    "Team": "ORL",
+    "Opponent": "ATL",
+    "Salary": "5,500",
+    "Value": 6.2
+  },
+  {
+    "Name": "Carmelo Anthony",
+    "Fpts": 32.85,
+    "Position": "SF",
+    "Team": "POR",
+    "Opponent": "PHX",
+    "Salary": "5,400",
+    "Value": 6.08
+  },
+  {
+    "Name": "Wendell Carter Jr.",
+    "Fpts": 32.5,
+    "Position": "C",
+    "Team": "CHI",
+    "Opponent": "MIL",
+    "Salary": "5,200",
+    "Value": 6.25
+  },
+  {
+    "Name": "Bojan Bogdanovic",
+    "Fpts": 31.84,
+    "Position": "SF",
+    "Team": "UTA",
+    "Opponent": "DET",
+    "Salary": "5,600",
+    "Value": 5.69
+  },
+  {
+    "Name": "Robert Covington",
+    "Fpts": 31.24,
+    "Position": "PF",
+    "Team": "MIN",
+    "Opponent": "BKN",
+    "Salary": "5,100",
+    "Value": 6.13
+  },
+  {
+    "Name": "Khris Middleton",
+    "Fpts": 31.17,
+    "Position": "SG",
+    "Team": "MIL",
+    "Opponent": "CHI",
+    "Salary": "7,600",
+    "Value": 4.1
+  },
+  {
+    "Name": "Eric Bledsoe",
+    "Fpts": 30.17,
+    "Position": "PG",
+    "Team": "MIL",
+    "Opponent": "CHI",
+    "Salary": "5,600",
+    "Value": 5.39
+  },
+  {
+    "Name": "Christian Wood",
+    "Fpts": 29.1,
+    "Position": "PF",
+    "Team": "DET",
+    "Opponent": "UTA",
+    "Salary": "4,100",
+    "Value": 7.1
+  },
+  {
+    "Name": "Derrick Rose",
+    "Fpts": 29.01,
+    "Position": "PG",
+    "Team": "DET",
+    "Opponent": "UTA",
+    "Salary": "5,900",
+    "Value": 4.92
+  },
+  {
+    "Name": "Troy Brown",
+    "Fpts": 28.98,
+    "Position": "SF",
+    "Team": "WAS",
+    "Opponent": "MIA",
+    "Salary": "5,500",
+    "Value": 5.27
+  },
+  {
+    "Name": "Kevin Huerter",
+    "Fpts": 28.93,
+    "Position": "SG",
+    "Team": "ATL",
+    "Opponent": "ORL",
+    "Salary": "5,100",
+    "Value": 5.67
+  },
+  {
+    "Name": "Goran Dragic",
+    "Fpts": 28.83,
+    "Position": "PG",
+    "Team": "MIA",
+    "Opponent": "WAS",
+    "Salary": "5,300",
+    "Value": 5.44
+  },
+  {
+    "Name": "Markelle Fultz",
+    "Fpts": 28.53,
+    "Position": "PG",
+    "Team": "ORL",
+    "Opponent": "ATL",
+    "Salary": "4,900",
+    "Value": 5.82
+  },
+  {
+    "Name": "Tomas Satoransky",
+    "Fpts": 27.97,
+    "Position": "PG",
+    "Team": "CHI",
+    "Opponent": "MIL",
+    "Salary": "5,800",
+    "Value": 4.82
+  },
+  {
+    "Name": "Joe Ingles",
+    "Fpts": 27.73,
+    "Position": "SF",
+    "Team": "UTA",
+    "Opponent": "DET",
+    "Salary": "5,600",
+    "Value": 4.95
+  },
+  {
+    "Name": "Jordan McRae",
+    "Fpts": 27.65,
+    "Position": "SG",
+    "Team": "WAS",
+    "Opponent": "MIA",
+    "Salary": "4,000",
+    "Value": 6.91
+  },
+  {
+    "Name": "Karl-Anthony Towns",
+    "Fpts": 27.44,
+    "Position": "C",
+    "Team": "MIN",
+    "Opponent": "BKN",
+    "Salary": "10,200",
+    "Value": 2.69
+  },
+  {
+    "Name": "Aron Baynes",
+    "Fpts": 27.42,
+    "Position": "C",
+    "Team": "PHX",
+    "Opponent": "POR",
+    "Salary": "4,300",
+    "Value": 6.38
+  },
+  {
+    "Name": "Garrett Temple",
+    "Fpts": 27.31,
+    "Position": "SG",
+    "Team": "BKN",
+    "Opponent": "MIN",
+    "Salary": "4,200",
+    "Value": 6.5
+  },
+  {
+    "Name": "Joe Harris",
+    "Fpts": 27.21,
+    "Position": "SF",
+    "Team": "BKN",
+    "Opponent": "MIN",
+    "Salary": "4,500",
+    "Value": 6.05
+  },
+  {
+    "Name": "Gorgui Dieng",
+    "Fpts": 26.59,
+    "Position": "C",
+    "Team": "MIN",
+    "Opponent": "BKN",
+    "Salary": "5,700",
+    "Value": 4.67
+  },
+  {
+    "Name": "Brook Lopez",
+    "Fpts": 26.57,
+    "Position": "C",
+    "Team": "MIL",
+    "Opponent": "CHI",
+    "Salary": "5,000",
+    "Value": 5.31
+  },
+  {
+    "Name": "Jeff Teague",
+    "Fpts": 26.56,
+    "Position": "PG",
+    "Team": "MIN",
+    "Opponent": "BKN",
+    "Salary": "5,200",
+    "Value": 5.11
+  },
+  {
+    "Name": "Taurean Prince",
+    "Fpts": 26.19,
+    "Position": "SF",
+    "Team": "BKN",
+    "Opponent": "MIN",
+    "Salary": "4,700",
+    "Value": 5.57
+  },
+  {
+    "Name": "DeAndre Jordan",
+    "Fpts": 26.11,
+    "Position": "C",
+    "Team": "BKN",
+    "Opponent": "MIN",
+    "Salary": "4,800",
+    "Value": 5.44
+  },
+  {
+    "Name": "Gary Payton II",
+    "Fpts": 25.63,
+    "Position": "SG",
+    "Team": "WAS",
+    "Opponent": "MIA",
+    "Salary": "5,300",
+    "Value": 4.84
+  },
+  {
+    "Name": "Bruce Brown Jr.",
+    "Fpts": 25.55,
+    "Position": "SG",
+    "Team": "DET",
+    "Opponent": "UTA",
+    "Salary": "4,600",
+    "Value": 5.55
+  },
+  {
+    "Name": "Kent Bazemore",
+    "Fpts": 25.25,
+    "Position": "SF",
+    "Team": "POR",
+    "Opponent": "PHX",
+    "Salary": "4,200",
+    "Value": 6.01
+  },
+  {
+    "Name": "Kendrick Nunn",
+    "Fpts": 24.48,
+    "Position": "PG",
+    "Team": "MIA",
+    "Opponent": "WAS",
+    "Salary": "4,500",
+    "Value": 5.44
+  },
+  {
+    "Name": "Thaddeus Young",
+    "Fpts": 24.33,
+    "Position": "PF",
+    "Team": "CHI",
+    "Opponent": "MIL",
+    "Salary": "4,200",
+    "Value": 5.79
+  },
+  {
+    "Name": "Kris Dunn",
+    "Fpts": 24.3,
+    "Position": "PG",
+    "Team": "CHI",
+    "Opponent": "MIL",
+    "Salary": "5,500",
+    "Value": 4.42
+  },
+  {
+    "Name": "Shabazz Napier",
+    "Fpts": 24.11,
+    "Position": "PG",
+    "Team": "MIN",
+    "Opponent": "BKN",
+    "Salary": "4,600",
+    "Value": 5.24
+  },
+  {
+    "Name": "De'Andre Hunter",
+    "Fpts": 23.96,
+    "Position": "SF",
+    "Team": "ATL",
+    "Opponent": "ORL",
+    "Salary": "4,600",
+    "Value": 5.21
+  },
+  {
+    "Name": "Terrence Ross",
+    "Fpts": 23.94,
+    "Position": "SG",
+    "Team": "ORL",
+    "Opponent": "ATL",
+    "Salary": "4,400",
+    "Value": 5.44
+  },
+  {
+    "Name": "Isaiah Thomas",
+    "Fpts": 23.8,
+    "Position": "PG",
+    "Team": "WAS",
+    "Opponent": "MIA",
+    "Salary": "4,700",
+    "Value": 5.06
+  },
+  {
+    "Name": "D.J. Augustin",
+    "Fpts": 23.76,
+    "Position": "PG",
+    "Team": "ORL",
+    "Opponent": "ATL",
+    "Salary": "4,000",
+    "Value": 5.94
+  },
+  {
+    "Name": "Bradley Beal",
+    "Fpts": 23.53,
+    "Position": "SG",
+    "Team": "WAS",
+    "Opponent": "MIA",
+    "Salary": "9,400",
+    "Value": 2.5
+  },
+  {
+    "Name": "Ian Mahinmi",
+    "Fpts": 23.23,
+    "Position": "C",
+    "Team": "WAS",
+    "Opponent": "MIA",
+    "Salary": "4,500",
+    "Value": 5.16
+  },
+  {
+    "Name": "Cam Reddish",
+    "Fpts": 23.02,
+    "Position": "SF",
+    "Team": "ATL",
+    "Opponent": "ORL",
+    "Salary": "4,100",
+    "Value": 5.61
+  },
+  {
+    "Name": "Donte DiVincenzo",
+    "Fpts": 22.16,
+    "Position": "SG",
+    "Team": "MIL",
+    "Opponent": "CHI",
+    "Salary": "4,800",
+    "Value": 4.62
+  },
+  {
+    "Name": "Alex Len",
+    "Fpts": 21.95,
+    "Position": "C",
+    "Team": "ATL",
+    "Opponent": "ORL",
+    "Salary": "4,200",
+    "Value": 5.23
+  },
+  {
+    "Name": "Derrick Jones Jr.",
+    "Fpts": 21.33,
+    "Position": "SF",
+    "Team": "MIA",
+    "Opponent": "WAS",
+    "Salary": "4,200",
+    "Value": 5.08
+  },
+  {
+    "Name": "Royce O'Neale",
+    "Fpts": 21.1,
+    "Position": "PF",
+    "Team": "UTA",
+    "Opponent": "DET",
+    "Salary": "4,200",
+    "Value": 5.02
+  },
+  {
+    "Name": "Jordan Clarkson",
+    "Fpts": 21,
+    "Position": "SG",
+    "Team": "UTA",
+    "Opponent": "DET",
+    "Salary": "4,500",
+    "Value": 4.67
+  },
+  {
+    "Name": "Dario Saric",
+    "Fpts": 20.67,
+    "Position": "PF",
+    "Team": "PHX",
+    "Opponent": "POR",
+    "Salary": "4,200",
+    "Value": 4.92
+  },
+  {
+    "Name": "Tyler Herro",
+    "Fpts": 20.42,
+    "Position": "SG",
+    "Team": "MIA",
+    "Opponent": "WAS",
+    "Salary": "4,200",
+    "Value": 4.86
+  },
+  {
+    "Name": "DeAndre' Bembry",
+    "Fpts": 19.85,
+    "Position": "SG",
+    "Team": "ATL",
+    "Opponent": "ORL",
+    "Salary": "3,500",
+    "Value": 5.67
+  },
+  {
+    "Name": "Mohamed Bamba",
+    "Fpts": 19.76,
+    "Position": "C",
+    "Team": "ORL",
+    "Opponent": "ATL",
+    "Salary": "4,100",
+    "Value": 4.82
+  },
+  {
+    "Name": "Anzejs Pasecniks",
+    "Fpts": 19.76,
+    "Position": "C",
+    "Team": "WAS",
+    "Opponent": "MIA",
+    "Salary": "3,700",
+    "Value": 5.34
+  },
+  {
+    "Name": "Andrew Wiggins",
+    "Fpts": 19.73,
+    "Position": "SG",
+    "Team": "MIN",
+    "Opponent": "BKN",
+    "Salary": "7,300",
+    "Value": 2.7
+  },
+  {
+    "Name": "Thon Maker",
+    "Fpts": 19.71,
+    "Position": "C",
+    "Team": "DET",
+    "Opponent": "UTA",
+    "Salary": "3,500",
+    "Value": 5.63
+  },
+  {
+    "Name": "Ish Smith",
+    "Fpts": 18.9,
+    "Position": "PG",
+    "Team": "WAS",
+    "Opponent": "MIA",
+    "Salary": "4,900",
+    "Value": 3.86
+  },
+  {
+    "Name": "Duncan Robinson",
+    "Fpts": 18.51,
+    "Position": "SG",
+    "Team": "MIA",
+    "Opponent": "WAS",
+    "Salary": "3,900",
+    "Value": 4.75
+  },
+  {
+    "Name": "Jarrett Culver",
+    "Fpts": 18.48,
+    "Position": "SF",
+    "Team": "MIN",
+    "Opponent": "BKN",
+    "Salary": "3,600",
+    "Value": 5.13
+  },
+  {
+    "Name": "Tim Frazier",
+    "Fpts": 18.42,
+    "Position": "PG",
+    "Team": "DET",
+    "Opponent": "UTA",
+    "Salary": "4,100",
+    "Value": 4.49
+  },
+  {
+    "Name": "Josh Okogie",
+    "Fpts": 18.34,
+    "Position": "SF",
+    "Team": "MIN",
+    "Opponent": "BKN",
+    "Salary": "3,500",
+    "Value": 5.24
+  },
+  {
+    "Name": "Wes Iwundu",
+    "Fpts": 18.15,
+    "Position": "SF",
+    "Team": "ORL",
+    "Opponent": "ATL",
+    "Salary": "3,500",
+    "Value": 5.19
+  },
+  {
+    "Name": "George Hill",
+    "Fpts": 18.14,
+    "Position": "PG",
+    "Team": "MIL",
+    "Opponent": "CHI",
+    "Salary": "4,500",
+    "Value": 4.03
+  },
+  {
+    "Name": "Coby White",
+    "Fpts": 17.36,
+    "Position": "PG",
+    "Team": "CHI",
+    "Opponent": "MIL",
+    "Salary": "3,900",
+    "Value": 4.45
+  },
+  {
+    "Name": "Cameron Johnson",
+    "Fpts": 17.21,
+    "Position": "SF",
+    "Team": "PHX",
+    "Opponent": "POR",
+    "Salary": "3,800",
+    "Value": 4.53
+  },
+  {
+    "Name": "DeAndre Ayton",
+    "Fpts": 17.17,
+    "Position": "C",
+    "Team": "PHX",
+    "Opponent": "POR",
+    "Salary": "7,900",
+    "Value": 2.17
+  },
+  {
+    "Name": "Mikal Bridges",
+    "Fpts": 16.98,
+    "Position": "SF",
+    "Team": "PHX",
+    "Opponent": "POR",
+    "Salary": "4,000",
+    "Value": 4.25
+  },
+  {
+    "Name": "Ersan Ilyasova",
+    "Fpts": 16.69,
+    "Position": "PF",
+    "Team": "MIL",
+    "Opponent": "CHI",
+    "Salary": "5,000",
+    "Value": 3.34
+  },
+  {
+    "Name": "Langston Galloway",
+    "Fpts": 15.92,
+    "Position": "SG",
+    "Team": "DET",
+    "Opponent": "UTA",
+    "Salary": "3,700",
+    "Value": 4.3
+  },
+  {
+    "Name": "Tony Snell",
+    "Fpts": 15.66,
+    "Position": "SG",
+    "Team": "DET",
+    "Opponent": "UTA",
+    "Salary": "3,500",
+    "Value": 4.47
+  },
+  {
+    "Name": "Anfernee Simons",
+    "Fpts": 15.63,
+    "Position": "PG",
+    "Team": "POR",
+    "Opponent": "PHX",
+    "Salary": "3,500",
+    "Value": 4.47
+  },
+  {
+    "Name": "Wilson Chandler",
+    "Fpts": 15.6,
+    "Position": "SF",
+    "Team": "BKN",
+    "Opponent": "MIN",
+    "Salary": "3,500",
+    "Value": 4.46
+  },
+  {
+    "Name": "Svi Mykhailiuk",
+    "Fpts": 14.93,
+    "Position": "SG",
+    "Team": "DET",
+    "Opponent": "UTA",
+    "Salary": "4,000",
+    "Value": 3.73
+  },
+  {
+    "Name": "Lauri Markkanen",
+    "Fpts": 14.7,
+    "Position": "PF",
+    "Team": "CHI",
+    "Opponent": "MIL",
+    "Salary": "5,700",
+    "Value": 2.58
+  },
+  {
+    "Name": "Meyers Leonard",
+    "Fpts": 14.46,
+    "Position": "C",
+    "Team": "MIA",
+    "Opponent": "WAS",
+    "Salary": "3,600",
+    "Value": 4.02
+  },
+  {
+    "Name": "Frank Kaminsky",
+    "Fpts": 14.4,
+    "Position": "PF",
+    "Team": "PHX",
+    "Opponent": "POR",
+    "Salary": "3,700",
+    "Value": 3.89
+  },
+  {
+    "Name": "Treveon Graham",
+    "Fpts": 14.21,
+    "Position": "SG",
+    "Team": "MIN",
+    "Opponent": "BKN",
+    "Salary": "3,500",
+    "Value": 4.06
+  },
+  {
+    "Name": "Daniel Gafford",
+    "Fpts": 13.9,
+    "Position": "PF",
+    "Team": "CHI",
+    "Opponent": "MIL",
+    "Salary": "3,500",
+    "Value": 3.97
+  },
+  {
+    "Name": "Allen Crabbe",
+    "Fpts": 13.88,
+    "Position": "SG",
+    "Team": "ATL",
+    "Opponent": "ORL",
+    "Salary": "3,500",
+    "Value": 3.97
+  },
+  {
+    "Name": "Pat Connaughton",
+    "Fpts": 13.59,
+    "Position": "SG",
+    "Team": "MIL",
+    "Opponent": "CHI",
+    "Salary": "3,500",
+    "Value": 3.88
+  },
+  {
+    "Name": "Kelly Olynyk",
+    "Fpts": 13.49,
+    "Position": "C",
+    "Team": "MIA",
+    "Opponent": "WAS",
+    "Salary": "3,500",
+    "Value": 3.85
+  },
+  {
+    "Name": "Emmanuel Mudiay",
+    "Fpts": 13.42,
+    "Position": "PG",
+    "Team": "UTA",
+    "Opponent": "DET",
+    "Salary": "3,900",
+    "Value": 3.44
+  },
+  {
+    "Name": "Isaac Bonga",
+    "Fpts": 13.41,
+    "Position": "SF",
+    "Team": "WAS",
+    "Opponent": "MIA",
+    "Salary": "3,500",
+    "Value": 3.83
+  },
+  {
+    "Name": "Khem Birch",
+    "Fpts": 12.95,
+    "Position": "PF",
+    "Team": "ORL",
+    "Opponent": "ATL",
+    "Salary": "4,000",
+    "Value": 3.24
+  },
+  {
+    "Name": "Denzel Valentine",
+    "Fpts": 12.36,
+    "Position": "SF",
+    "Team": "CHI",
+    "Opponent": "MIL",
+    "Salary": "3,500",
+    "Value": 3.53
+  },
+  {
+    "Name": "Sterling Brown",
+    "Fpts": 11.7,
+    "Position": "SG",
+    "Team": "MIL",
+    "Opponent": "CHI",
+    "Salary": "3,500",
+    "Value": 3.34
+  },
+  {
+    "Name": "Anthony Tolliver",
+    "Fpts": 11.46,
+    "Position": "PF",
+    "Team": "POR",
+    "Opponent": "PHX",
+    "Salary": "3,500",
+    "Value": 3.28
+  },
+  {
+    "Name": "Robin Lopez",
+    "Fpts": 11.44,
+    "Position": "C",
+    "Team": "MIL",
+    "Opponent": "CHI",
+    "Salary": "3,500",
+    "Value": 3.27
+  },
+  {
+    "Name": "Bruno Fernando",
+    "Fpts": 11.16,
+    "Position": "PF",
+    "Team": "ATL",
+    "Opponent": "ORL",
+    "Salary": "3,500",
+    "Value": 3.19
+  },
+  {
+    "Name": "Timothe Luwawu-Cabarrot",
+    "Fpts": 10.8,
+    "Position": "SG",
+    "Team": "BKN",
+    "Opponent": "MIN",
+    "Salary": "3,500",
+    "Value": 3.09
+  },
+  {
+    "Name": "Rodions Kurucs",
+    "Fpts": 10.77,
+    "Position": "PF",
+    "Team": "BKN",
+    "Opponent": "MIN",
+    "Salary": "3,500",
+    "Value": 3.08
+  },
+  {
+    "Name": "Vince Carter",
+    "Fpts": 10.64,
+    "Position": "SF",
+    "Team": "ATL",
+    "Opponent": "ORL",
+    "Salary": "3,500",
+    "Value": 3.04
+  },
+  {
+    "Name": "Kyle Korver",
+    "Fpts": 10.28,
+    "Position": "SG",
+    "Team": "MIL",
+    "Opponent": "CHI",
+    "Salary": "3,500",
+    "Value": 2.94
+  },
+  {
+    "Name": "Jevon Carter",
+    "Fpts": 10.25,
+    "Position": "PG",
+    "Team": "PHX",
+    "Opponent": "POR",
+    "Salary": "3,600",
+    "Value": 2.85
+  },
+  {
+    "Name": "Gary Trent Jr.",
+    "Fpts": 9.65,
+    "Position": "SG",
+    "Team": "POR",
+    "Opponent": "PHX",
+    "Salary": "3,500",
+    "Value": 2.76
+  },
+  {
+    "Name": "Ed Davis",
+    "Fpts": 9.64,
+    "Position": "PF",
+    "Team": "UTA",
+    "Opponent": "DET",
+    "Salary": "3,500",
+    "Value": 2.75
+  },
+  {
+    "Name": "Noah Vonleh",
+    "Fpts": 9.61,
+    "Position": "PF",
+    "Team": "MIN",
+    "Opponent": "BKN",
+    "Salary": "3,500",
+    "Value": 2.74
+  },
+  {
+    "Name": "Georges Niang",
+    "Fpts": 9.33,
+    "Position": "PF",
+    "Team": "UTA",
+    "Opponent": "DET",
+    "Salary": "3,500",
+    "Value": 2.66
+  },
+  {
+    "Name": "Johnathan Williams",
+    "Fpts": 9.31,
+    "Position": "PF",
+    "Team": "WAS",
+    "Opponent": "MIA",
+    "Salary": "4,500",
+    "Value": 2.07
+  },
+  {
+    "Name": "Damian Jones",
+    "Fpts": 8.55,
+    "Position": "C",
+    "Team": "ATL",
+    "Opponent": "ORL",
+    "Salary": "3,500",
+    "Value": 2.44
+  },
+  {
+    "Name": "Nassir Little",
+    "Fpts": 8.11,
+    "Position": "SF",
+    "Team": "POR",
+    "Opponent": "PHX",
+    "Salary": "3,500",
+    "Value": 2.32
+  },
+  {
+    "Name": "Kelan Martin",
+    "Fpts": 7.78,
+    "Position": "SF",
+    "Team": "MIN",
+    "Opponent": "BKN",
+    "Salary": "3,500",
+    "Value": 2.22
+  },
+  {
+    "Name": "Keita Bates-Diop",
+    "Fpts": 7.72,
+    "Position": "SF",
+    "Team": "MIN",
+    "Opponent": "BKN",
+    "Salary": "3,500",
+    "Value": 2.2
+  },
+  {
+    "Name": "Ryan Arcidiacono",
+    "Fpts": 7.62,
+    "Position": "PG",
+    "Team": "CHI",
+    "Opponent": "MIL",
+    "Salary": "3,500",
+    "Value": 2.18
+  },
+  {
+    "Name": "Theo Pinson",
+    "Fpts": 7.19,
+    "Position": "SG",
+    "Team": "BKN",
+    "Opponent": "MIN",
+    "Salary": "3,500",
+    "Value": 2.05
+  },
+  {
+    "Name": "Garrison Mathews",
+    "Fpts": 6.97,
+    "Position": "SG",
+    "Team": "WAS",
+    "Opponent": "MIA",
+    "Salary": "3,500",
+    "Value": 1.99
+  },
+  {
+    "Name": "Cheick Diallo",
+    "Fpts": 4.58,
+    "Position": "PF",
+    "Team": "PHX",
+    "Opponent": "POR",
+    "Salary": "3,500",
+    "Value": 1.31
+  },
+  {
+    "Name": "Evan Turner",
+    "Fpts": 4.19,
+    "Position": "SG",
+    "Team": "ATL",
+    "Opponent": "ORL",
+    "Salary": "3,500",
+    "Value": 1.2
+  },
+  {
+    "Name": "Luke Kornet",
+    "Fpts": 4.09,
+    "Position": "PF",
+    "Team": "CHI",
+    "Opponent": "MIL",
+    "Salary": "3,500",
+    "Value": 1.17
+  },
+  {
+    "Name": "Brandon Goodwin",
+    "Fpts": 2.84,
+    "Position": "PG",
+    "Team": "ATL",
+    "Opponent": "ORL",
+    "Salary": "3,500",
+    "Value": 0.81
+  },
+  {
+    "Name": "Tony Bradley",
+    "Fpts": 2.82,
+    "Position": "C",
+    "Team": "UTA",
+    "Opponent": "DET",
+    "Salary": "3,500",
+    "Value": 0.81
+  },
+  {
+    "Name": "Trae Young",
+    "Fpts": 0,
+    "Position": "PG",
+    "Team": "ATL",
+    "Opponent": "ORL",
+    "Salary": "10,300",
+    "Value": 0
+  },
+  {
+    "Name": "Dzanan Musa",
+    "Fpts": 0,
+    "Position": "SF",
+    "Team": "BKN",
+    "Opponent": "MIN",
+    "Salary": "3,600",
+    "Value": 0
+  },
+  {
+    "Name": "Caris LeVert",
+    "Fpts": 0,
+    "Position": "SG",
+    "Team": "BKN",
+    "Opponent": "MIN",
+    "Salary": "5,000",
+    "Value": 0
+  },
+  {
+    "Name": "David Nwaba",
+    "Fpts": 0,
+    "Position": "SG",
+    "Team": "BKN",
+    "Opponent": "MIN",
+    "Salary": "3,500",
+    "Value": 0
+  },
+  {
+    "Name": "Shaquille Harrison",
+    "Fpts": 0,
+    "Position": "PG",
+    "Team": "CHI",
+    "Opponent": "MIL",
+    "Salary": "3,500",
+    "Value": 0
+  },
+  {
+    "Name": "Chandler Hutchison",
+    "Fpts": 0,
+    "Position": "SF",
+    "Team": "CHI",
+    "Opponent": "MIL",
+    "Salary": "3,600",
+    "Value": 0
+  },
+  {
+    "Name": "Sekou Doumbouya",
+    "Fpts": 0,
+    "Position": "PF",
+    "Team": "DET",
+    "Opponent": "UTA",
+    "Salary": "3,500",
+    "Value": 0
+  },
+  {
+    "Name": "Luke Kennard",
+    "Fpts": 0,
+    "Position": "SF",
+    "Team": "DET",
+    "Opponent": "UTA",
+    "Salary": "4,900",
+    "Value": 0
+  },
+  {
+    "Name": "Markieff Morris",
+    "Fpts": 0,
+    "Position": "SF",
+    "Team": "DET",
+    "Opponent": "UTA",
+    "Salary": "4,500",
+    "Value": 0
+  },
+  {
+    "Name": "Blake Griffin",
+    "Fpts": 0,
+    "Position": "PF",
+    "Team": "DET",
+    "Opponent": "UTA",
+    "Salary": "5,600",
+    "Value": 0
+  },
+  {
+    "Name": "Justise Winslow",
+    "Fpts": 0,
+    "Position": "SF",
+    "Team": "MIA",
+    "Opponent": "WAS",
+    "Salary": "4,500",
+    "Value": 0
+  },
+  {
+    "Name": "James Johnson",
+    "Fpts": 0,
+    "Position": "PF",
+    "Team": "MIA",
+    "Opponent": "WAS",
+    "Salary": "3,500",
+    "Value": 0
+  },
+  {
+    "Name": "Dion Waiters",
+    "Fpts": 0,
+    "Position": "SF",
+    "Team": "MIA",
+    "Opponent": "WAS",
+    "Salary": "3,900",
+    "Value": 0
+  },
+  {
+    "Name": "Chris Silva",
+    "Fpts": 0,
+    "Position": "PF",
+    "Team": "MIA",
+    "Opponent": "WAS",
+    "Salary": "3,500",
+    "Value": 0
+  },
+  {
+    "Name": "Wesley Matthews",
+    "Fpts": 0,
+    "Position": "SG",
+    "Team": "MIL",
+    "Opponent": "CHI",
+    "Salary": "3,800",
+    "Value": 0
+  },
+  {
+    "Name": "D.J. Wilson",
+    "Fpts": 0,
+    "Position": "PF",
+    "Team": "MIL",
+    "Opponent": "CHI",
+    "Salary": "3,500",
+    "Value": 0
+  },
+  {
+    "Name": "Jordan Bell",
+    "Fpts": 0,
+    "Position": "PF",
+    "Team": "MIN",
+    "Opponent": "BKN",
+    "Salary": "3,500",
+    "Value": 0
+  },
+  {
+    "Name": "Aaron Gordon",
+    "Fpts": 0,
+    "Position": "PF",
+    "Team": "ORL",
+    "Opponent": "ATL",
+    "Salary": "6,400",
+    "Value": 0
+  },
+  {
+    "Name": "Michael Carter-Williams",
+    "Fpts": 0,
+    "Position": "PG",
+    "Team": "ORL",
+    "Opponent": "ATL",
+    "Salary": "3,700",
+    "Value": 0
+  },
+  {
+    "Name": "Al-Farouq Aminu",
+    "Fpts": 0,
+    "Position": "PF",
+    "Team": "ORL",
+    "Opponent": "ATL",
+    "Salary": "3,800",
+    "Value": 0
+  },
+  {
+    "Name": "Melvin Frazier",
+    "Fpts": 0,
+    "Position": "SF",
+    "Team": "ORL",
+    "Opponent": "ATL",
+    "Salary": "3,500",
+    "Value": 0
+  },
+  {
+    "Name": "Elie Okobo",
+    "Fpts": 0,
+    "Position": "SG",
+    "Team": "PHX",
+    "Opponent": "POR",
+    "Salary": "3,800",
+    "Value": 0
+  },
+  {
+    "Name": "Ty Jerome",
+    "Fpts": 0,
+    "Position": "SG",
+    "Team": "PHX",
+    "Opponent": "POR",
+    "Salary": "3,600",
+    "Value": 0
+  },
+  {
+    "Name": "Rodney Hood",
+    "Fpts": 0,
+    "Position": "SF",
+    "Team": "POR",
+    "Opponent": "PHX",
+    "Salary": "3,500",
+    "Value": 0
+  },
+  {
+    "Name": "Moses Brown",
+    "Fpts": 0,
+    "Position": "C",
+    "Team": "POR",
+    "Opponent": "PHX",
+    "Salary": "3,500",
+    "Value": 0
+  },
+  {
+    "Name": "Mario Hezonja",
+    "Fpts": 0,
+    "Position": "SF",
+    "Team": "POR",
+    "Opponent": "PHX",
+    "Salary": "3,500",
+    "Value": 0
+  },
+  {
+    "Name": "Skal Labissiere",
+    "Fpts": 0,
+    "Position": "PF",
+    "Team": "POR",
+    "Opponent": "PHX",
+    "Salary": "4,000",
+    "Value": 0
+  },
+  {
+    "Name": "Mike Conley",
+    "Fpts": 0,
+    "Position": "PG",
+    "Team": "UTA",
+    "Opponent": "DET",
+    "Salary": "4,500",
+    "Value": 0
+  },
+  {
+    "Name": "Nigel Williams-Goss",
+    "Fpts": 0,
+    "Position": "PG",
+    "Team": "UTA",
+    "Opponent": "DET",
+    "Salary": "3,500",
+    "Value": 0
+  },
+  {
+    "Name": "Admiral Schofield",
+    "Fpts": 0,
+    "Position": "SF",
+    "Team": "WAS",
+    "Opponent": "MIA",
+    "Salary": "3,800",
+    "Value": 0
+  },
+  {
+    "Name": "Justin Robinson",
+    "Fpts": 0,
+    "Position": "PG",
+    "Team": "WAS",
+    "Opponent": "MIA",
+    "Salary": "3,500",
+    "Value": 0
+  }
+]

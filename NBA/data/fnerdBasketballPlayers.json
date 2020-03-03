@@ -1,0 +1,1784 @@
+[
+  {
+    "Player Name": "Giannis Antetokounmpo",
+    "Last 5 Avg": 59.5,
+    "Season Avg": 58.9,
+    "Season Floor": 47.8,
+    "Season Ceiling": 70.1,
+    "DFN Proj": 59.5,
+    "Proj": 59.5
+  },
+  {
+    "Player Name": "Andre Drummond",
+    "Last 5 Avg": 46.4,
+    "Season Avg": 48.8,
+    "Season Floor": 34.9,
+    "Season Ceiling": 62.6,
+    "DFN Proj": 50.9,
+    "Proj": 50.9
+  },
+  {
+    "Player Name": "Hassan Whiteside",
+    "Last 5 Avg": 43.9,
+    "Season Avg": 40.7,
+    "Season Floor": 28.6,
+    "Season Ceiling": 52.9,
+    "DFN Proj": 47.7,
+    "Proj": 47.7
+  },
+  {
+    "Player Name": "Damian Lillard",
+    "Last 5 Avg": 45.5,
+    "Season Avg": 44.9,
+    "Season Floor": 35.4,
+    "Season Ceiling": 54.4,
+    "DFN Proj": 46.6,
+    "Proj": 46.6
+  },
+  {
+    "Player Name": "Bam Adebayo",
+    "Last 5 Avg": 41.9,
+    "Season Avg": 40.5,
+    "Season Floor": 28.8,
+    "Season Ceiling": 52.2,
+    "DFN Proj": 44.2,
+    "Proj": 44.2
+  },
+  {
+    "Player Name": "Nikola Vucevic",
+    "Last 5 Avg": 46.1,
+    "Season Avg": 41.7,
+    "Season Floor": 31.1,
+    "Season Ceiling": 52.3,
+    "DFN Proj": 43.8,
+    "Proj": 43.8
+  },
+  {
+    "Player Name": "Jimmy Butler",
+    "Last 5 Avg": 40.5,
+    "Season Avg": 44,
+    "Season Floor": 34.8,
+    "Season Ceiling": 53.2,
+    "DFN Proj": 43.6,
+    "Proj": 43.6
+  },
+  {
+    "Player Name": "Rudy Gobert",
+    "Last 5 Avg": 42.8,
+    "Season Avg": 40.6,
+    "Season Floor": 30.3,
+    "Season Ceiling": 50.9,
+    "DFN Proj": 43.5,
+    "Proj": 43.5
+  },
+  {
+    "Player Name": "John Collins",
+    "Last 5 Avg": 45.4,
+    "Season Avg": 41.7,
+    "Season Floor": 32.2,
+    "Season Ceiling": 51.2,
+    "DFN Proj": 43.5,
+    "Proj": 43.5
+  },
+  {
+    "Player Name": "Spencer Dinwiddie",
+    "Last 5 Avg": 42.2,
+    "Season Avg": 37.8,
+    "Season Floor": 28,
+    "Season Ceiling": 47.6,
+    "DFN Proj": 41.8,
+    "Proj": 41.8
+  },
+  {
+    "Player Name": "Donovan Mitchell",
+    "Last 5 Avg": 42.6,
+    "Season Avg": 39.4,
+    "Season Floor": 31.2,
+    "Season Ceiling": 47.6,
+    "DFN Proj": 41.2,
+    "Proj": 41.2
+  },
+  {
+    "Player Name": "Zach LaVine",
+    "Last 5 Avg": 42.6,
+    "Season Avg": 36.3,
+    "Season Floor": 24.9,
+    "Season Ceiling": 47.8,
+    "DFN Proj": 37.9,
+    "Proj": 37.9
+  },
+  {
+    "Player Name": "C.J. McCollum",
+    "Last 5 Avg": 36.2,
+    "Season Avg": 36,
+    "Season Floor": 24.2,
+    "Season Ceiling": 47.9,
+    "DFN Proj": 37.3,
+    "Proj": 37.3
+  },
+  {
+    "Player Name": "Devin Booker",
+    "Last 5 Avg": 38.3,
+    "Season Avg": 38.3,
+    "Season Floor": 26.2,
+    "Season Ceiling": 50.4,
+    "DFN Proj": 36.7,
+    "Proj": 36.7
+  },
+  {
+    "Player Name": "Jonathan Isaac",
+    "Last 5 Avg": 35.9,
+    "Season Avg": 34.3,
+    "Season Floor": 22.3,
+    "Season Ceiling": 46.3,
+    "DFN Proj": 36.3,
+    "Proj": 36.3
+  },
+  {
+    "Player Name": "Ricky Rubio",
+    "Last 5 Avg": 33.1,
+    "Season Avg": 36.4,
+    "Season Floor": 26.3,
+    "Season Ceiling": 46.5,
+    "DFN Proj": 35.7,
+    "Proj": 35.7
+  },
+  {
+    "Player Name": "Khris Middleton",
+    "Last 5 Avg": 40.2,
+    "Season Avg": 32.9,
+    "Season Floor": 25.5,
+    "Season Ceiling": 40.2,
+    "DFN Proj": 34.7,
+    "Proj": 34.7
+  },
+  {
+    "Player Name": "Jarrett Allen",
+    "Last 5 Avg": 34.6,
+    "Season Avg": 32.7,
+    "Season Floor": 21.5,
+    "Season Ceiling": 44,
+    "DFN Proj": 33.6,
+    "Proj": 33.6
+  },
+  {
+    "Player Name": "Karl-Anthony Towns",
+    "Last 5 Avg": 50.1,
+    "Season Avg": 52.1,
+    "Season Floor": 40.4,
+    "Season Ceiling": 63.8,
+    "DFN Proj": 32.9,
+    "Proj": 32.9
+  },
+  {
+    "Player Name": "Bojan Bogdanovic",
+    "Last 5 Avg": 27.8,
+    "Season Avg": 29.1,
+    "Season Floor": 19.9,
+    "Season Ceiling": 38.4,
+    "DFN Proj": 32.8,
+    "Proj": 32.8
+  },
+  {
+    "Player Name": "Deandre Ayton",
+    "Last 5 Avg": 42,
+    "Season Avg": 42,
+    "Season Floor": 36.2,
+    "Season Ceiling": 47.9,
+    "DFN Proj": 32.3,
+    "Proj": 32.3
+  },
+  {
+    "Player Name": "Kelly Oubre Jr.",
+    "Last 5 Avg": 31.1,
+    "Season Avg": 32.5,
+    "Season Floor": 21.1,
+    "Season Ceiling": 44,
+    "DFN Proj": 31.9,
+    "Proj": 31.9
+  },
+  {
+    "Player Name": "Carmelo Anthony",
+    "Last 5 Avg": 33.2,
+    "Season Avg": 29.7,
+    "Season Floor": 19.5,
+    "Season Ceiling": 39.8,
+    "DFN Proj": 31.9,
+    "Proj": 31.9
+  },
+  {
+    "Player Name": "Christian Wood",
+    "Last 5 Avg": 19,
+    "Season Avg": 18.5,
+    "Season Floor": 6.2,
+    "Season Ceiling": 30.8,
+    "DFN Proj": 31.3,
+    "Proj": 31.3
+  },
+  {
+    "Player Name": "Joe Ingles",
+    "Last 5 Avg": 32.2,
+    "Season Avg": 23.6,
+    "Season Floor": 13.4,
+    "Season Ceiling": 33.9,
+    "DFN Proj": 31.1,
+    "Proj": 31.1
+  },
+  {
+    "Player Name": "Evan Fournier",
+    "Last 5 Avg": 26.9,
+    "Season Avg": 29.2,
+    "Season Floor": 21.2,
+    "Season Ceiling": 37.2,
+    "DFN Proj": 30.4,
+    "Proj": 30.4
+  },
+  {
+    "Player Name": "Derrick Rose",
+    "Last 5 Avg": 30.7,
+    "Season Avg": 30,
+    "Season Floor": 21.5,
+    "Season Ceiling": 38.5,
+    "DFN Proj": 29.8,
+    "Proj": 29.8
+  },
+  {
+    "Player Name": "Gary Payton II",
+    "Last 5 Avg": 39.5,
+    "Season Avg": 39.5,
+    "Season Floor": 31.8,
+    "Season Ceiling": 47.1,
+    "DFN Proj": 29.7,
+    "Proj": 29.7
+  },
+  {
+    "Player Name": "Goran Dragic",
+    "Last 5 Avg": 31,
+    "Season Avg": 28.9,
+    "Season Floor": 22.3,
+    "Season Ceiling": 35.5,
+    "DFN Proj": 29.3,
+    "Proj": 29.3
+  },
+  {
+    "Player Name": "Wendell Carter Jr.",
+    "Last 5 Avg": 26.4,
+    "Season Avg": 29.1,
+    "Season Floor": 21.3,
+    "Season Ceiling": 36.9,
+    "DFN Proj": 29.3,
+    "Proj": 29.3
+  },
+  {
+    "Player Name": "Tomas Satoransky",
+    "Last 5 Avg": 35.6,
+    "Season Avg": 26,
+    "Season Floor": 15.9,
+    "Season Ceiling": 36.1,
+    "DFN Proj": 29,
+    "Proj": 29
+  },
+  {
+    "Player Name": "Robert Covington",
+    "Last 5 Avg": 29.6,
+    "Season Avg": 26.3,
+    "Season Floor": 17.1,
+    "Season Ceiling": 35.5,
+    "DFN Proj": 29,
+    "Proj": 29
+  },
+  {
+    "Player Name": "Lauri Markkanen",
+    "Last 5 Avg": 31.9,
+    "Season Avg": 28.1,
+    "Season Floor": 18.1,
+    "Season Ceiling": 38.1,
+    "DFN Proj": 28.7,
+    "Proj": 28.7
+  },
+  {
+    "Player Name": "Brook Lopez",
+    "Last 5 Avg": 33.3,
+    "Season Avg": 27.4,
+    "Season Floor": 16.5,
+    "Season Ceiling": 38.3,
+    "DFN Proj": 28.6,
+    "Proj": 28.6
+  },
+  {
+    "Player Name": "Troy Brown",
+    "Last 5 Avg": 29.9,
+    "Season Avg": 22.7,
+    "Season Floor": 12.6,
+    "Season Ceiling": 32.8,
+    "DFN Proj": 28.5,
+    "Proj": 28.5
+  },
+  {
+    "Player Name": "Jeff Teague",
+    "Last 5 Avg": 25.9,
+    "Season Avg": 28.8,
+    "Season Floor": 18.1,
+    "Season Ceiling": 39.5,
+    "DFN Proj": 28,
+    "Proj": 28
+  },
+  {
+    "Player Name": "Eric Bledsoe",
+    "Last 5 Avg": 29.7,
+    "Season Avg": 32,
+    "Season Floor": 22.6,
+    "Season Ceiling": 41.5,
+    "DFN Proj": 27.6,
+    "Proj": 27.6
+  },
+  {
+    "Player Name": "Andrew Wiggins",
+    "Last 5 Avg": 37.3,
+    "Season Avg": 39.2,
+    "Season Floor": 29.7,
+    "Season Ceiling": 48.6,
+    "DFN Proj": 27.4,
+    "Proj": 27.4
+  },
+  {
+    "Player Name": "Kris Dunn",
+    "Last 5 Avg": 27.1,
+    "Season Avg": 22.6,
+    "Season Floor": 13.8,
+    "Season Ceiling": 31.3,
+    "DFN Proj": 27,
+    "Proj": 27
+  },
+  {
+    "Player Name": "Markelle Fultz",
+    "Last 5 Avg": 20.2,
+    "Season Avg": 23.7,
+    "Season Floor": 17.8,
+    "Season Ceiling": 29.5,
+    "DFN Proj": 27,
+    "Proj": 27
+  },
+  {
+    "Player Name": "DeAndre Jordan",
+    "Last 5 Avg": 25.9,
+    "Season Avg": 26,
+    "Season Floor": 15.6,
+    "Season Ceiling": 36.5,
+    "DFN Proj": 26.5,
+    "Proj": 26.5
+  },
+  {
+    "Player Name": "Joe Harris",
+    "Last 5 Avg": 25.8,
+    "Season Avg": 24.5,
+    "Season Floor": 15.5,
+    "Season Ceiling": 33.4,
+    "DFN Proj": 26.2,
+    "Proj": 26.2
+  },
+  {
+    "Player Name": "Kevin Huerter",
+    "Last 5 Avg": 23.1,
+    "Season Avg": 20.7,
+    "Season Floor": 13.5,
+    "Season Ceiling": 27.9,
+    "DFN Proj": 26.1,
+    "Proj": 26.1
+  },
+  {
+    "Player Name": "Terrence Ross",
+    "Last 5 Avg": 20.3,
+    "Season Avg": 20.5,
+    "Season Floor": 13.6,
+    "Season Ceiling": 27.4,
+    "DFN Proj": 25.9,
+    "Proj": 25.9
+  },
+  {
+    "Player Name": "Gorgui Dieng",
+    "Last 5 Avg": 35.2,
+    "Season Avg": 19.1,
+    "Season Floor": 6.6,
+    "Season Ceiling": 31.5,
+    "DFN Proj": 25.6,
+    "Proj": 25.6
+  },
+  {
+    "Player Name": "Taurean Prince",
+    "Last 5 Avg": 22.4,
+    "Season Avg": 25.7,
+    "Season Floor": 16,
+    "Season Ceiling": 35.5,
+    "DFN Proj": 25.6,
+    "Proj": 25.6
+  },
+  {
+    "Player Name": "Ian Mahinmi",
+    "Last 5 Avg": 23.1,
+    "Season Avg": 21,
+    "Season Floor": 14.6,
+    "Season Ceiling": 27.4,
+    "DFN Proj": 25.3,
+    "Proj": 25.3
+  },
+  {
+    "Player Name": "Derrick Jones Jr.",
+    "Last 5 Avg": 21.7,
+    "Season Avg": 19.1,
+    "Season Floor": 10,
+    "Season Ceiling": 28.1,
+    "DFN Proj": 24.7,
+    "Proj": 24.7
+  },
+  {
+    "Player Name": "Kendrick Nunn",
+    "Last 5 Avg": 26.1,
+    "Season Avg": 26.5,
+    "Season Floor": 17.3,
+    "Season Ceiling": 35.7,
+    "DFN Proj": 24,
+    "Proj": 24
+  },
+  {
+    "Player Name": "Bruce Brown Jr.",
+    "Last 5 Avg": 22.5,
+    "Season Avg": 22.3,
+    "Season Floor": 10.4,
+    "Season Ceiling": 34.1,
+    "DFN Proj": 23.9,
+    "Proj": 23.9
+  },
+  {
+    "Player Name": "Isaiah Thomas",
+    "Last 5 Avg": 26.1,
+    "Season Avg": 23.2,
+    "Season Floor": 14.7,
+    "Season Ceiling": 31.6,
+    "DFN Proj": 23.7,
+    "Proj": 23.7
+  },
+  {
+    "Player Name": "Garrett Temple",
+    "Last 5 Avg": 23.4,
+    "Season Avg": 21.8,
+    "Season Floor": 13.2,
+    "Season Ceiling": 30.5,
+    "DFN Proj": 23.3,
+    "Proj": 23.3
+  },
+  {
+    "Player Name": "D.J. Augustin",
+    "Last 5 Avg": 23.6,
+    "Season Avg": 20.8,
+    "Season Floor": 12.8,
+    "Season Ceiling": 28.9,
+    "DFN Proj": 22.9,
+    "Proj": 22.9
+  },
+  {
+    "Player Name": "De'Andre Hunter",
+    "Last 5 Avg": 16.4,
+    "Season Avg": 21.1,
+    "Season Floor": 11.4,
+    "Season Ceiling": 30.8,
+    "DFN Proj": 22.8,
+    "Proj": 22.8
+  },
+  {
+    "Player Name": "Kent Bazemore",
+    "Last 5 Avg": 19,
+    "Season Avg": 19.1,
+    "Season Floor": 10.6,
+    "Season Ceiling": 27.6,
+    "DFN Proj": 22.6,
+    "Proj": 22.6
+  },
+  {
+    "Player Name": "Donte DiVincenzo",
+    "Last 5 Avg": 23.7,
+    "Season Avg": 22.6,
+    "Season Floor": 13.8,
+    "Season Ceiling": 31.3,
+    "DFN Proj": 22.6,
+    "Proj": 22.6
+  },
+  {
+    "Player Name": "Royce O'Neale",
+    "Last 5 Avg": 24.4,
+    "Season Avg": 18.9,
+    "Season Floor": 11.8,
+    "Season Ceiling": 26.1,
+    "DFN Proj": 22.3,
+    "Proj": 22.3
+  },
+  {
+    "Player Name": "Cam Reddish",
+    "Last 5 Avg": 20.8,
+    "Season Avg": 18.3,
+    "Season Floor": 10.5,
+    "Season Ceiling": 26.2,
+    "DFN Proj": 21.8,
+    "Proj": 21.8
+  },
+  {
+    "Player Name": "Jordan McRae",
+    "Last 5 Avg": 22.6,
+    "Season Avg": 20.1,
+    "Season Floor": 11.4,
+    "Season Ceiling": 28.8,
+    "DFN Proj": 21.4,
+    "Proj": 21.4
+  },
+  {
+    "Player Name": "Jordan Clarkson",
+    "Last 5 Avg": 22.4,
+    "Season Avg": 22.1,
+    "Season Floor": 12.6,
+    "Season Ceiling": 31.5,
+    "DFN Proj": 20.9,
+    "Proj": 20.9
+  },
+  {
+    "Player Name": "Tyler Herro",
+    "Last 5 Avg": 23.7,
+    "Season Avg": 23.2,
+    "Season Floor": 13.3,
+    "Season Ceiling": 33.2,
+    "DFN Proj": 20.7,
+    "Proj": 20.7
+  },
+  {
+    "Player Name": "Aron Baynes",
+    "Last 5 Avg": 20.4,
+    "Season Avg": 25.2,
+    "Season Floor": 14.4,
+    "Season Ceiling": 36.1,
+    "DFN Proj": 19.9,
+    "Proj": 19.9
+  },
+  {
+    "Player Name": "Alex Len",
+    "Last 5 Avg": 18.6,
+    "Season Avg": 19.4,
+    "Season Floor": 8.7,
+    "Season Ceiling": 30.2,
+    "DFN Proj": 19.8,
+    "Proj": 19.8
+  },
+  {
+    "Player Name": "Shabazz Napier",
+    "Last 5 Avg": 23.1,
+    "Season Avg": 17.7,
+    "Season Floor": 8.4,
+    "Season Ceiling": 27.1,
+    "DFN Proj": 19.4,
+    "Proj": 19.4
+  },
+  {
+    "Player Name": "Ish Smith",
+    "Last 5 Avg": 21.4,
+    "Season Avg": 21.9,
+    "Season Floor": 11.8,
+    "Season Ceiling": 32,
+    "DFN Proj": 19,
+    "Proj": 19
+  },
+  {
+    "Player Name": "Thaddeus Young",
+    "Last 5 Avg": 18.7,
+    "Season Avg": 19.3,
+    "Season Floor": 11.4,
+    "Season Ceiling": 27.2,
+    "DFN Proj": 19,
+    "Proj": 19
+  },
+  {
+    "Player Name": "Wesley Iwundu",
+    "Last 5 Avg": 7,
+    "Season Avg": 8.4,
+    "Season Floor": 3.6,
+    "Season Ceiling": 13.1,
+    "DFN Proj": 18.9,
+    "Proj": 18.9
+  },
+  {
+    "Player Name": "Tim Frazier",
+    "Last 5 Avg": 19.3,
+    "Season Avg": 11.6,
+    "Season Floor": 3.3,
+    "Season Ceiling": 20,
+    "DFN Proj": 18.4,
+    "Proj": 18.4
+  },
+  {
+    "Player Name": "DeAndre Bembry",
+    "Last 5 Avg": 14.6,
+    "Season Avg": 18.6,
+    "Season Floor": 8.3,
+    "Season Ceiling": 28.9,
+    "DFN Proj": 18,
+    "Proj": 18
+  },
+  {
+    "Player Name": "Anfernee Simons",
+    "Last 5 Avg": 18,
+    "Season Avg": 15.4,
+    "Season Floor": 7.7,
+    "Season Ceiling": 23.1,
+    "DFN Proj": 17.6,
+    "Proj": 17.6
+  },
+  {
+    "Player Name": "Dario Saric",
+    "Last 5 Avg": 20.2,
+    "Season Avg": 25.2,
+    "Season Floor": 14.1,
+    "Season Ceiling": 36.3,
+    "DFN Proj": 17.5,
+    "Proj": 17.5
+  },
+  {
+    "Player Name": "Treveon Graham",
+    "Last 5 Avg": 11.7,
+    "Season Avg": 12.4,
+    "Season Floor": 5.4,
+    "Season Ceiling": 19.5,
+    "DFN Proj": 17.3,
+    "Proj": 17.3
+  },
+  {
+    "Player Name": "Anzejs Pasecniks",
+    "Last 5 Avg": 15.5,
+    "Season Avg": 15.9,
+    "Season Floor": 6.6,
+    "Season Ceiling": 25.2,
+    "DFN Proj": 17.1,
+    "Proj": 17.1
+  },
+  {
+    "Player Name": "Jarrett Culver",
+    "Last 5 Avg": 13.2,
+    "Season Avg": 17.7,
+    "Season Floor": 8.3,
+    "Season Ceiling": 27.1,
+    "DFN Proj": 17,
+    "Proj": 17
+  },
+  {
+    "Player Name": "George Hill",
+    "Last 5 Avg": 22.5,
+    "Season Avg": 20.6,
+    "Season Floor": 13.7,
+    "Season Ceiling": 27.5,
+    "DFN Proj": 16.5,
+    "Proj": 16.5
+  },
+  {
+    "Player Name": "Mohamed Bamba",
+    "Last 5 Avg": 19.9,
+    "Season Avg": 16.8,
+    "Season Floor": 8.6,
+    "Season Ceiling": 25,
+    "DFN Proj": 16.5,
+    "Proj": 16.5
+  },
+  {
+    "Player Name": "Coby White",
+    "Last 5 Avg": 17.2,
+    "Season Avg": 20.4,
+    "Season Floor": 10.9,
+    "Season Ceiling": 29.8,
+    "DFN Proj": 16.1,
+    "Proj": 16.1
+  },
+  {
+    "Player Name": "Ersan Ilyasova",
+    "Last 5 Avg": 24.4,
+    "Season Avg": 18.5,
+    "Season Floor": 9.6,
+    "Season Ceiling": 27.4,
+    "DFN Proj": 16,
+    "Proj": 16
+  },
+  {
+    "Player Name": "Duncan Robinson",
+    "Last 5 Avg": 20.5,
+    "Season Avg": 19.7,
+    "Season Floor": 10.6,
+    "Season Ceiling": 28.9,
+    "DFN Proj": 16,
+    "Proj": 16
+  },
+  {
+    "Player Name": "Langston Galloway",
+    "Last 5 Avg": 14.9,
+    "Season Avg": 17.8,
+    "Season Floor": 11.3,
+    "Season Ceiling": 24.2,
+    "DFN Proj": 15.8,
+    "Proj": 15.8
+  },
+  {
+    "Player Name": "Mikal Bridges",
+    "Last 5 Avg": 14.6,
+    "Season Avg": 17.6,
+    "Season Floor": 8.3,
+    "Season Ceiling": 27,
+    "DFN Proj": 15.6,
+    "Proj": 15.6
+  },
+  {
+    "Player Name": "Meyers Leonard",
+    "Last 5 Avg": 17,
+    "Season Avg": 14,
+    "Season Floor": 4.6,
+    "Season Ceiling": 23.4,
+    "DFN Proj": 15.6,
+    "Proj": 15.6
+  },
+  {
+    "Player Name": "Tony Snell",
+    "Last 5 Avg": 12.6,
+    "Season Avg": 14.1,
+    "Season Floor": 7.5,
+    "Season Ceiling": 20.7,
+    "DFN Proj": 15.5,
+    "Proj": 15.5
+  },
+  {
+    "Player Name": "Josh Okogie",
+    "Last 5 Avg": 11.6,
+    "Season Avg": 18,
+    "Season Floor": 10.4,
+    "Season Ceiling": 25.6,
+    "DFN Proj": 15.2,
+    "Proj": 15.2
+  },
+  {
+    "Player Name": "Pat Connaughton",
+    "Last 5 Avg": 18.5,
+    "Season Avg": 15.1,
+    "Season Floor": 7.9,
+    "Season Ceiling": 22.3,
+    "DFN Proj": 14.5,
+    "Proj": 14.5
+  },
+  {
+    "Player Name": "Sviatoslav Mykhailiuk",
+    "Last 5 Avg": 17.3,
+    "Season Avg": 10.6,
+    "Season Floor": 3.4,
+    "Season Ceiling": 17.8,
+    "DFN Proj": 14.3,
+    "Proj": 14.3
+  },
+  {
+    "Player Name": "Cameron Johnson",
+    "Last 5 Avg": 13.9,
+    "Season Avg": 16.1,
+    "Season Floor": 7.8,
+    "Season Ceiling": 24.4,
+    "DFN Proj": 14.2,
+    "Proj": 14.2
+  },
+  {
+    "Player Name": "Wilson Chandler",
+    "Last 5 Avg": 13.2,
+    "Season Avg": 14.3,
+    "Season Floor": 11,
+    "Season Ceiling": 17.6,
+    "DFN Proj": 14.2,
+    "Proj": 14.2
+  },
+  {
+    "Player Name": "Allen Crabbe",
+    "Last 5 Avg": 11.8,
+    "Season Avg": 12,
+    "Season Floor": 4.9,
+    "Season Ceiling": 19.2,
+    "DFN Proj": 13.9,
+    "Proj": 13.9
+  },
+  {
+    "Player Name": "Timothe Luwawu-Cabarrot",
+    "Last 5 Avg": 9.9,
+    "Season Avg": 8.2,
+    "Season Floor": -0.9,
+    "Season Ceiling": 17.2,
+    "DFN Proj": 13.8,
+    "Proj": 13.8
+  },
+  {
+    "Player Name": "Thon Maker",
+    "Last 5 Avg": 11.2,
+    "Season Avg": 8.6,
+    "Season Floor": 2.1,
+    "Season Ceiling": 15.2,
+    "DFN Proj": 13.7,
+    "Proj": 13.7
+  },
+  {
+    "Player Name": "Noah Vonleh",
+    "Last 5 Avg": 18.4,
+    "Season Avg": 12.3,
+    "Season Floor": 4.9,
+    "Season Ceiling": 19.7,
+    "DFN Proj": 13.5,
+    "Proj": 13.5
+  },
+  {
+    "Player Name": "Emmanuel Mudiay",
+    "Last 5 Avg": 17.3,
+    "Season Avg": 14.4,
+    "Season Floor": 7.2,
+    "Season Ceiling": 21.6,
+    "DFN Proj": 12.8,
+    "Proj": 12.8
+  },
+  {
+    "Player Name": "Johnathan Williams",
+    "Last 5 Avg": 16.6,
+    "Season Avg": 16.6,
+    "Season Floor": 5.3,
+    "Season Ceiling": 27.9,
+    "DFN Proj": 12.8,
+    "Proj": 12.8
+  },
+  {
+    "Player Name": "Daniel Gafford",
+    "Last 5 Avg": 10,
+    "Season Avg": 10.4,
+    "Season Floor": 0.7,
+    "Season Ceiling": 20,
+    "DFN Proj": 12.8,
+    "Proj": 12.8
+  },
+  {
+    "Player Name": "Bruno Fernando",
+    "Last 5 Avg": 12,
+    "Season Avg": 10,
+    "Season Floor": 3.3,
+    "Season Ceiling": 16.7,
+    "DFN Proj": 12.4,
+    "Proj": 12.4
+  },
+  {
+    "Player Name": "Kelly Olynyk",
+    "Last 5 Avg": 10.7,
+    "Season Avg": 18,
+    "Season Floor": 7.8,
+    "Season Ceiling": 28.2,
+    "DFN Proj": 12.2,
+    "Proj": 12.2
+  },
+  {
+    "Player Name": "Kyle Korver",
+    "Last 5 Avg": 16.6,
+    "Season Avg": 11.9,
+    "Season Floor": 5.5,
+    "Season Ceiling": 18.3,
+    "DFN Proj": 11.5,
+    "Proj": 11.5
+  },
+  {
+    "Player Name": "Rodions Kurucs",
+    "Last 5 Avg": 6.7,
+    "Season Avg": 6.4,
+    "Season Floor": 1.7,
+    "Season Ceiling": 11.1,
+    "DFN Proj": 11,
+    "Proj": 11
+  },
+  {
+    "Player Name": "Denzel Valentine",
+    "Last 5 Avg": 7.8,
+    "Season Avg": 12.8,
+    "Season Floor": 3.1,
+    "Season Ceiling": 22.5,
+    "DFN Proj": 10.7,
+    "Proj": 10.7
+  },
+  {
+    "Player Name": "Keita Bates-Diop",
+    "Last 5 Avg": 10.8,
+    "Season Avg": 12.4,
+    "Season Floor": 3.8,
+    "Season Ceiling": 21,
+    "DFN Proj": 10.7,
+    "Proj": 10.7
+  },
+  {
+    "Player Name": "Frank Kaminsky",
+    "Last 5 Avg": 17.1,
+    "Season Avg": 22.2,
+    "Season Floor": 12.1,
+    "Season Ceiling": 32.3,
+    "DFN Proj": 10.5,
+    "Proj": 10.5
+  },
+  {
+    "Player Name": "Anthony Tolliver",
+    "Last 5 Avg": 9.9,
+    "Season Avg": 9.1,
+    "Season Floor": 1.7,
+    "Season Ceiling": 16.6,
+    "DFN Proj": 10.2,
+    "Proj": 10.2
+  },
+  {
+    "Player Name": "Sterling Brown",
+    "Last 5 Avg": 9.6,
+    "Season Avg": 14,
+    "Season Floor": 7.1,
+    "Season Ceiling": 21,
+    "DFN Proj": 9.9,
+    "Proj": 9.9
+  },
+  {
+    "Player Name": "Georges Niang",
+    "Last 5 Avg": 8.9,
+    "Season Avg": 7.5,
+    "Season Floor": 2,
+    "Season Ceiling": 13,
+    "DFN Proj": 9.8,
+    "Proj": 9.8
+  },
+  {
+    "Player Name": "Vince Carter",
+    "Last 5 Avg": 9.9,
+    "Season Avg": 10.5,
+    "Season Floor": 3.4,
+    "Season Ceiling": 17.6,
+    "DFN Proj": 9.8,
+    "Proj": 9.8
+  },
+  {
+    "Player Name": "Gary Trent Jr.",
+    "Last 5 Avg": 7.2,
+    "Season Avg": 6.7,
+    "Season Floor": 0.5,
+    "Season Ceiling": 13,
+    "DFN Proj": 9.4,
+    "Proj": 9.4
+  },
+  {
+    "Player Name": "Robin Lopez",
+    "Last 5 Avg": 13.8,
+    "Season Avg": 11.7,
+    "Season Floor": 4.2,
+    "Season Ceiling": 19.1,
+    "DFN Proj": 9.1,
+    "Proj": 9.1
+  },
+  {
+    "Player Name": "Isaac Bonga",
+    "Last 5 Avg": 9.2,
+    "Season Avg": 11,
+    "Season Floor": 4.3,
+    "Season Ceiling": 17.7,
+    "DFN Proj": 8.1,
+    "Proj": 8.1
+  },
+  {
+    "Player Name": "Nassir Little",
+    "Last 5 Avg": 5.8,
+    "Season Avg": 10.2,
+    "Season Floor": 1.4,
+    "Season Ceiling": 19,
+    "DFN Proj": 8,
+    "Proj": 8
+  },
+  {
+    "Player Name": "Ryan Arcidiacono",
+    "Last 5 Avg": 9.4,
+    "Season Avg": 9.5,
+    "Season Floor": 3,
+    "Season Ceiling": 16,
+    "DFN Proj": 7.6,
+    "Proj": 7.6
+  },
+  {
+    "Player Name": "Blake Griffin",
+    "Last 5 Avg": 24.5,
+    "Season Avg": 27.3,
+    "Season Floor": 19.4,
+    "Season Ceiling": 35.1,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Luke Kennard",
+    "Last 5 Avg": 22.9,
+    "Season Avg": 26.6,
+    "Season Floor": 18,
+    "Season Ceiling": 35.2,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Mike Conley",
+    "Last 5 Avg": 22.2,
+    "Season Avg": 26.6,
+    "Season Floor": 17.4,
+    "Season Ceiling": 35.8,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Markieff Morris",
+    "Last 5 Avg": 18.3,
+    "Season Avg": 19.1,
+    "Season Floor": 11.1,
+    "Season Ceiling": 27,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Reggie Jackson",
+    "Last 5 Avg": 13.5,
+    "Season Avg": 13.5,
+    "Season Floor": 12.4,
+    "Season Ceiling": 14.6,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Skal Labissiere",
+    "Last 5 Avg": 22.4,
+    "Season Avg": 16.8,
+    "Season Floor": 6.5,
+    "Season Ceiling": 27.1,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Elie Okobo",
+    "Last 5 Avg": 18.3,
+    "Season Avg": 11.3,
+    "Season Floor": 1.2,
+    "Season Ceiling": 21.3,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Jevon Carter",
+    "Last 5 Avg": 14.1,
+    "Season Avg": 11.5,
+    "Season Floor": 3.8,
+    "Season Ceiling": 19.3,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Tyler Johnson",
+    "Last 5 Avg": 11.9,
+    "Season Avg": 13.1,
+    "Season Floor": 6.3,
+    "Season Ceiling": 19.8,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Ty Jerome",
+    "Last 5 Avg": 11.4,
+    "Season Avg": 11.9,
+    "Season Floor": 3.3,
+    "Season Ceiling": 20.6,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Sekou Doumbouya",
+    "Last 5 Avg": 3.2,
+    "Season Avg": 2.6,
+    "Season Floor": 0.4,
+    "Season Ceiling": 4.9,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Miye Oni",
+    "Last 5 Avg": 0.1,
+    "Season Avg": 0.1,
+    "Season Floor": -1,
+    "Season Ceiling": 1.2,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Justin Wright-Foreman",
+    "Last 5 Avg": 0,
+    "Season Avg": 0,
+    "Season Floor": 0,
+    "Season Ceiling": 0,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Nigel Williams-Goss",
+    "Last 5 Avg": 1.6,
+    "Season Avg": 1.3,
+    "Season Floor": -0.9,
+    "Season Ceiling": 3.6,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Jared Harper",
+    "Last 5 Avg": 0,
+    "Season Avg": 0,
+    "Season Floor": 0,
+    "Season Ceiling": 0,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Moses Brown",
+    "Last 5 Avg": 5.2,
+    "Season Avg": 5.2,
+    "Season Floor": 1,
+    "Season Ceiling": 9.4,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Louis King",
+    "Last 5 Avg": 6.5,
+    "Season Avg": 6.5,
+    "Season Floor": 6.1,
+    "Season Ceiling": 6.8,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Jalen Lecque",
+    "Last 5 Avg": 0,
+    "Season Avg": 0,
+    "Season Floor": 0,
+    "Season Ceiling": 0,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Rayjon Tucker",
+    "Last 5 Avg": 0,
+    "Season Avg": 0,
+    "Season Floor": 0,
+    "Season Ceiling": 0,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Jaylen Hoard",
+    "Last 5 Avg": 4.3,
+    "Season Avg": 4.3,
+    "Season Floor": 2.1,
+    "Season Ceiling": 6.4,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Juwan Morgan",
+    "Last 5 Avg": 0.5,
+    "Season Avg": 0.5,
+    "Season Floor": -0.2,
+    "Season Ceiling": 1.1,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Zach Collins",
+    "Last 5 Avg": 16.8,
+    "Season Avg": 16.8,
+    "Season Floor": 13.5,
+    "Season Ceiling": 20.1,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Tony Bradley",
+    "Last 5 Avg": 4.5,
+    "Season Avg": 8.9,
+    "Season Floor": 0,
+    "Season Ceiling": 17.8,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Cheick Diallo",
+    "Last 5 Avg": 4.6,
+    "Season Avg": 9.7,
+    "Season Floor": 0.1,
+    "Season Ceiling": 19.2,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Rodney Hood",
+    "Last 5 Avg": 20,
+    "Season Avg": 21.1,
+    "Season Floor": 13.6,
+    "Season Ceiling": 28.5,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Ed Davis",
+    "Last 5 Avg": 7.5,
+    "Season Avg": 9.2,
+    "Season Floor": 5.1,
+    "Season Ceiling": 13.3,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Khyri Thomas",
+    "Last 5 Avg": 0.5,
+    "Season Avg": 0.5,
+    "Season Floor": -0.2,
+    "Season Ceiling": 1.2,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Jarrell Brantley",
+    "Last 5 Avg": 5.7,
+    "Season Avg": 5.7,
+    "Season Floor": 2.2,
+    "Season Ceiling": 9.1,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Mario Hezonja",
+    "Last 5 Avg": 7.3,
+    "Season Avg": 11.7,
+    "Season Floor": 3.3,
+    "Season Ceiling": 20,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Jordan Bone",
+    "Last 5 Avg": 0.7,
+    "Season Avg": 0.7,
+    "Season Floor": -2.2,
+    "Season Ceiling": 3.6,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Trae Young",
+    "Last 5 Avg": 55.4,
+    "Season Avg": 47.6,
+    "Season Floor": 35.3,
+    "Season Ceiling": 59.8,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Bradley Beal",
+    "Last 5 Avg": 52.4,
+    "Season Avg": 45.3,
+    "Season Floor": 33.7,
+    "Season Ceiling": 56.9,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Kyrie Irving",
+    "Last 5 Avg": 47.8,
+    "Season Avg": 50.5,
+    "Season Floor": 38.8,
+    "Season Ceiling": 62.2,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Aaron Gordon",
+    "Last 5 Avg": 30.5,
+    "Season Avg": 29.3,
+    "Season Floor": 20,
+    "Season Ceiling": 38.6,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Davis Bertans",
+    "Last 5 Avg": 28.2,
+    "Season Avg": 26.9,
+    "Season Floor": 17.8,
+    "Season Ceiling": 36.1,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Thomas Bryant",
+    "Last 5 Avg": 27,
+    "Season Avg": 31.1,
+    "Season Floor": 21.5,
+    "Season Ceiling": 40.8,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Rui Hachimura",
+    "Last 5 Avg": 23.8,
+    "Season Avg": 25,
+    "Season Floor": 14.5,
+    "Season Ceiling": 35.5,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Caris LeVert",
+    "Last 5 Avg": 26.5,
+    "Season Avg": 27.7,
+    "Season Floor": 19.6,
+    "Season Ceiling": 35.8,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Moritz Wagner",
+    "Last 5 Avg": 23,
+    "Season Avg": 22.8,
+    "Season Floor": 13.2,
+    "Season Ceiling": 32.5,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Justise Winslow",
+    "Last 5 Avg": 24.5,
+    "Season Avg": 28.4,
+    "Season Floor": 16.4,
+    "Season Ceiling": 40.3,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Otto Porter",
+    "Last 5 Avg": 21.9,
+    "Season Avg": 19.8,
+    "Season Floor": 11.2,
+    "Season Ceiling": 28.4,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Jabari Parker",
+    "Last 5 Avg": 20.8,
+    "Season Avg": 28.8,
+    "Season Floor": 15.7,
+    "Season Ceiling": 42,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Khem Birch",
+    "Last 5 Avg": 15.5,
+    "Season Avg": 15.8,
+    "Season Floor": 7.2,
+    "Season Ceiling": 24.4,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Dion Waiters",
+    "Last 5 Avg": 0,
+    "Season Avg": 0,
+    "Season Floor": 0,
+    "Season Ceiling": 0,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Wesley Matthews",
+    "Last 5 Avg": 17.5,
+    "Season Avg": 14.8,
+    "Season Floor": 7.7,
+    "Season Ceiling": 22,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Al-Farouq Aminu",
+    "Last 5 Avg": 13.1,
+    "Season Avg": 16.2,
+    "Season Floor": 6.7,
+    "Season Ceiling": 25.8,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Admiral Schofield",
+    "Last 5 Avg": 7.5,
+    "Season Avg": 7.4,
+    "Season Floor": -1.1,
+    "Season Ceiling": 15.9,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Michael Carter-Williams",
+    "Last 5 Avg": 18.2,
+    "Season Avg": 15.6,
+    "Season Floor": 6.3,
+    "Season Ceiling": 24.9,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Jordan McLaughlin",
+    "Last 5 Avg": 13.4,
+    "Season Avg": 13.4,
+    "Season Floor": 0.1,
+    "Season Ceiling": 26.6,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Chandler Hutchison",
+    "Last 5 Avg": 14.8,
+    "Season Avg": 15.6,
+    "Season Floor": 8.7,
+    "Season Ceiling": 22.5,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Dzanan Musa",
+    "Last 5 Avg": 2.8,
+    "Season Avg": 8.7,
+    "Season Floor": 1.5,
+    "Season Ceiling": 15.8,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "KZ Okpala",
+    "Last 5 Avg": 0.1,
+    "Season Avg": 0.1,
+    "Season Floor": 0,
+    "Season Ceiling": 0.2,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Cameron Reynolds",
+    "Last 5 Avg": 0,
+    "Season Avg": 0,
+    "Season Floor": 0,
+    "Season Ceiling": 0,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Theo Pinson",
+    "Last 5 Avg": 8.9,
+    "Season Avg": 11.3,
+    "Season Floor": 6.5,
+    "Season Ceiling": 16.1,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Daryl Macon",
+    "Last 5 Avg": 0.6,
+    "Season Avg": 0.6,
+    "Season Floor": -1,
+    "Season Ceiling": 2.2,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Brandon Goodwin",
+    "Last 5 Avg": 4.6,
+    "Season Avg": 4.6,
+    "Season Floor": -1.9,
+    "Season Ceiling": 11,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "B.J. Johnson",
+    "Last 5 Avg": 0,
+    "Season Avg": 0,
+    "Season Floor": 0,
+    "Season Ceiling": 0,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Udonis Haslem",
+    "Last 5 Avg": 2.9,
+    "Season Avg": 2.9,
+    "Season Floor": 0.4,
+    "Season Ceiling": 5.4,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Naz Reid",
+    "Last 5 Avg": 2.1,
+    "Season Avg": 2.1,
+    "Season Floor": 0.8,
+    "Season Ceiling": 3.4,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Adam Mokoka",
+    "Last 5 Avg": 0,
+    "Season Avg": 0,
+    "Season Floor": 0,
+    "Season Ceiling": 0,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Justin Robinson",
+    "Last 5 Avg": 3.7,
+    "Season Avg": 3.5,
+    "Season Floor": -0.6,
+    "Season Ceiling": 7.6,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Thanasis Antetokounmpo",
+    "Last 5 Avg": 6.9,
+    "Season Avg": 5.1,
+    "Season Floor": -0.9,
+    "Season Ceiling": 11.2,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Max Strus",
+    "Last 5 Avg": 3.1,
+    "Season Avg": 3.1,
+    "Season Floor": -1.3,
+    "Season Ceiling": 7.5,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Garrison Mathews",
+    "Last 5 Avg": 8.2,
+    "Season Avg": 6.1,
+    "Season Floor": 1.6,
+    "Season Ceiling": 10.6,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Nicolas Claxton",
+    "Last 5 Avg": 9.5,
+    "Season Avg": 10.1,
+    "Season Floor": 5.1,
+    "Season Ceiling": 15,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Kelan Martin",
+    "Last 5 Avg": 9.7,
+    "Season Avg": 9.8,
+    "Season Floor": 1.2,
+    "Season Ceiling": 18.3,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Jaylen Nowell",
+    "Last 5 Avg": 5.6,
+    "Season Avg": 5.6,
+    "Season Floor": 1.7,
+    "Season Ceiling": 9.4,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Chris Silva",
+    "Last 5 Avg": 7.2,
+    "Season Avg": 10.4,
+    "Season Floor": 2.6,
+    "Season Ceiling": 18.2,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Charlie Brown Jr.",
+    "Last 5 Avg": 3.4,
+    "Season Avg": 3.4,
+    "Season Floor": 2.4,
+    "Season Ceiling": 4.4,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Frank Mason III",
+    "Last 5 Avg": 4.2,
+    "Season Avg": 4.2,
+    "Season Floor": 1.1,
+    "Season Ceiling": 7.4,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "David Nwaba",
+    "Last 5 Avg": 17.3,
+    "Season Avg": 12.1,
+    "Season Floor": 5.4,
+    "Season Ceiling": 18.9,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "D.J. Wilson",
+    "Last 5 Avg": 5.6,
+    "Season Avg": 8,
+    "Season Floor": 1.1,
+    "Season Ceiling": 14.9,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Luke Kornet",
+    "Last 5 Avg": 2.5,
+    "Season Avg": 7.2,
+    "Season Floor": 2,
+    "Season Ceiling": 12.4,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Damian Jones",
+    "Last 5 Avg": 10.6,
+    "Season Avg": 16.2,
+    "Season Floor": 8.3,
+    "Season Ceiling": 24.1,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Amile Jefferson",
+    "Last 5 Avg": 0.8,
+    "Season Avg": 1.9,
+    "Season Floor": -0.6,
+    "Season Ceiling": 4.5,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Jordan Bell",
+    "Last 5 Avg": 11.2,
+    "Season Avg": 9.7,
+    "Season Floor": 2.4,
+    "Season Ceiling": 17,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Jake Layman",
+    "Last 5 Avg": 23.2,
+    "Season Avg": 19,
+    "Season Floor": 12,
+    "Season Ceiling": 26.1,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Cristiano Felicio",
+    "Last 5 Avg": 0,
+    "Season Avg": 0,
+    "Season Floor": 0,
+    "Season Ceiling": 0,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Chandler Parsons",
+    "Last 5 Avg": 7.8,
+    "Season Avg": 7.8,
+    "Season Floor": 0.2,
+    "Season Ceiling": 15.3,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "C.J. Miles",
+    "Last 5 Avg": 13.9,
+    "Season Avg": 14.6,
+    "Season Floor": 6.7,
+    "Season Ceiling": 22.4,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Melvin Frazier",
+    "Last 5 Avg": 2.2,
+    "Season Avg": 2.3,
+    "Season Floor": 0.5,
+    "Season Ceiling": 4.1,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Shaquille Harrison",
+    "Last 5 Avg": 6.6,
+    "Season Avg": 8.8,
+    "Season Floor": -2.7,
+    "Season Ceiling": 20.4,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Dragan Bender",
+    "Last 5 Avg": 9,
+    "Season Avg": 9,
+    "Season Floor": 3.4,
+    "Season Ceiling": 14.6,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Henry Ellenson",
+    "Last 5 Avg": 1.7,
+    "Season Avg": 1.7,
+    "Season Floor": -0.4,
+    "Season Ceiling": 3.8,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "James Johnson",
+    "Last 5 Avg": 5,
+    "Season Avg": 8.4,
+    "Season Floor": -0.9,
+    "Season Ceiling": 17.7,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Evan Turner",
+    "Last 5 Avg": 5.2,
+    "Season Avg": 10,
+    "Season Floor": 2.8,
+    "Season Ceiling": 17.3,
+    "DFN Proj": 0,
+    "Proj": 0
+  },
+  {
+    "Player Name": "Josh Magette",
+    "Last 5 Avg": 4.2,
+    "Season Avg": 4.2,
+    "Season Floor": -0.4,
+    "Season Ceiling": 8.7,
+    "DFN Proj": 0,
+    "Proj": 0
+  }
+]

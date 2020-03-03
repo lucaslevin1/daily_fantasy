@@ -1,0 +1,898 @@
+[
+  {
+    "name": "Michael Porter Jr.",
+    "points": 11.74
+  },
+  {
+    "name": "Malik Beasley",
+    "points": 11.89
+  },
+  {
+    "name": "Ricky Rubio",
+    "points": 34.12
+  },
+  {
+    "name": "Devin Booker",
+    "points": 34.36
+  },
+  {
+    "name": "Dario Saric",
+    "points": 25.07
+  },
+  {
+    "name": "Kelly Oubre",
+    "points": 32.54
+  },
+  {
+    "name": "Mason Plumlee",
+    "points": 15.73
+  },
+  {
+    "name": "Monte Morris",
+    "points": 15.95
+  },
+  {
+    "name": "Will Barton",
+    "points": 31.46
+  },
+  {
+    "name": "Gary Harris",
+    "points": 22.41
+  },
+  {
+    "name": "Paul Millsap",
+    "points": 23.33
+  },
+  {
+    "name": "Nikola Jokic",
+    "points": 45.52
+  },
+  {
+    "name": "Jerami Grant",
+    "points": 18.66
+  },
+  {
+    "name": "Aron Baynes",
+    "points": 30.52
+  },
+  {
+    "name": "Cameron Johnson",
+    "points": 16.45
+  },
+  {
+    "name": "Kenrich Williams",
+    "points": 18.58
+  },
+  {
+    "name": "Brandon Ingram",
+    "points": 41.05
+  },
+  {
+    "name": "Derrick Favors",
+    "points": 29.6
+  },
+  {
+    "name": "Josh Hart",
+    "points": 21.68
+  },
+  {
+    "name": "Lonzo Ball",
+    "points": 23.04
+  },
+  {
+    "name": "J.J. Redick",
+    "points": 22.74
+  },
+  {
+    "name": "Jrue Holiday",
+    "points": 38.27
+  },
+  {
+    "name": "Mikal Bridges",
+    "points": 12.44
+  },
+  {
+    "name": "Frank Kaminsky",
+    "points": 19
+  },
+  {
+    "name": "Elie Okobo",
+    "points": 10.51
+  },
+  {
+    "name": "Ty Jerome",
+    "points": 4.96
+  },
+  {
+    "name": "Tyler Johnson",
+    "points": 3.38
+  },
+  {
+    "name": "Jamal Murray",
+    "points": 33.73
+  },
+  {
+    "name": "Grayson Allen",
+    "points": 9.57
+  },
+  {
+    "name": "Trey Lyles",
+    "points": 14.97
+  },
+  {
+    "name": "DeMar DeRozan",
+    "points": 34.55
+  },
+  {
+    "name": "LaMarcus Aldridge",
+    "points": 37.23
+  },
+  {
+    "name": "Derrick White",
+    "points": 19.26
+  },
+  {
+    "name": "Rudy Gay",
+    "points": 19.3
+  },
+  {
+    "name": "Bryn Forbes",
+    "points": 17.67
+  },
+  {
+    "name": "Dejounte Murray",
+    "points": 30.69
+  },
+  {
+    "name": "Derrick Jones Jr.",
+    "points": 21.87
+  },
+  {
+    "name": "Bam Adebayo",
+    "points": 42.47
+  },
+  {
+    "name": "Goran Dragic",
+    "points": 23.24
+  },
+  {
+    "name": "Tyler Herro",
+    "points": 18.15
+  },
+  {
+    "name": "Kelly Olynyk",
+    "points": 18.69
+  },
+  {
+    "name": "Patty Mills",
+    "points": 17.21
+  },
+  {
+    "name": "Jakob Poeltl",
+    "points": 17.55
+  },
+  {
+    "name": "Tyus Jones",
+    "points": 13.57
+  },
+  {
+    "name": "Brandon Clarke",
+    "points": 24.73
+  },
+  {
+    "name": "Kyle Anderson",
+    "points": 15.67
+  },
+  {
+    "name": "De'Anthony Melton",
+    "points": 15.76
+  },
+  {
+    "name": "Solomon Hill",
+    "points": 9.11
+  },
+  {
+    "name": "Jonas Valanciunas",
+    "points": 30.78
+  },
+  {
+    "name": "Jaren Jackson",
+    "points": 32.77
+  },
+  {
+    "name": "Lonnie Walker IV",
+    "points": 12.29
+  },
+  {
+    "name": "Marco Belinelli",
+    "points": 11.42
+  },
+  {
+    "name": "Ja Morant",
+    "points": 37.48
+  },
+  {
+    "name": "Dillon Brooks",
+    "points": 25.98
+  },
+  {
+    "name": "Jae Crowder",
+    "points": 23.71
+  },
+  {
+    "name": "Jaxson Hayes",
+    "points": 18.27
+  },
+  {
+    "name": "E'Twaun Moore",
+    "points": 6.19
+  },
+  {
+    "name": "Jeff Teague",
+    "points": 26.92
+  },
+  {
+    "name": "Karl-Anthony Towns",
+    "points": 47.95
+  },
+  {
+    "name": "Keita Bates-Diop",
+    "points": 12.73
+  },
+  {
+    "name": "Jarrett Culver",
+    "points": 13.53
+  },
+  {
+    "name": "Jaylen Nowell",
+    "points": 6.12
+  },
+  {
+    "name": "Robert Covington",
+    "points": 25.25
+  },
+  {
+    "name": "Josh Okogie",
+    "points": 18.97
+  },
+  {
+    "name": "Cory Joseph",
+    "points": 15.13
+  },
+  {
+    "name": "Marvin Bagley III",
+    "points": 32.32
+  },
+  {
+    "name": "Trevor Ariza",
+    "points": 12.54
+  },
+  {
+    "name": "Shabazz Napier",
+    "points": 21.72
+  },
+  {
+    "name": "Andrew Wiggins",
+    "points": 38.39
+  },
+  {
+    "name": "Gorgui Dieng",
+    "points": 14.87
+  },
+  {
+    "name": "Noah Vonleh",
+    "points": 3.89
+  },
+  {
+    "name": "Jacob Evans",
+    "points": 5.7
+  },
+  {
+    "name": "Marquese Chriss",
+    "points": 12.17
+  },
+  {
+    "name": "Eric Paschall",
+    "points": 16.85
+  },
+  {
+    "name": "Kevon Looney",
+    "points": 10.46
+  },
+  {
+    "name": "Omari Spellman",
+    "points": 8.59
+  },
+  {
+    "name": "Jordan Poole",
+    "points": 6.13
+  },
+  {
+    "name": "Alec Burks",
+    "points": 28.4
+  },
+  {
+    "name": "Damion Lee",
+    "points": 24.25
+  },
+  {
+    "name": "D'Angelo Russell",
+    "points": 40.47
+  },
+  {
+    "name": "Glenn Robinson III",
+    "points": 20.32
+  },
+  {
+    "name": "Draymond Green",
+    "points": 33.72
+  },
+  {
+    "name": "Willie Cauley-Stein",
+    "points": 23.79
+  },
+  {
+    "name": "Bogdan Bogdanovic",
+    "points": 25.36
+  },
+  {
+    "name": "Richaun Holmes",
+    "points": 28.45
+  },
+  {
+    "name": "Gary Trent Jr.",
+    "points": 5.86
+  },
+  {
+    "name": "Skal Labissiere",
+    "points": 12.33
+  },
+  {
+    "name": "Nassir Little",
+    "points": 6.32
+  },
+  {
+    "name": "Anthony Tolliver",
+    "points": 7.01
+  },
+  {
+    "name": "Mario Hezonja",
+    "points": 2.51
+  },
+  {
+    "name": "Anfernee Simons",
+    "points": 13.5
+  },
+  {
+    "name": "Hassan Whiteside",
+    "points": 46.4
+  },
+  {
+    "name": "Damian Lillard",
+    "points": 48.59
+  },
+  {
+    "name": "Nickeil Alexander-Walker",
+    "points": 5.85
+  },
+  {
+    "name": "C.J. McCollum",
+    "points": 36.99
+  },
+  {
+    "name": "Kent Bazemore",
+    "points": 24.98
+  },
+  {
+    "name": "Carmelo Anthony",
+    "points": 31.46
+  },
+  {
+    "name": "Russell Westbrook",
+    "points": 49.03
+  },
+  {
+    "name": "James Harden",
+    "points": 57.96
+  },
+  {
+    "name": "De'Aaron Fox",
+    "points": 34.1
+  },
+  {
+    "name": "Thabo Sefolosha",
+    "points": 3.24
+  },
+  {
+    "name": "Buddy Hield",
+    "points": 33.28
+  },
+  {
+    "name": "Harrison Barnes",
+    "points": 23.5
+  },
+  {
+    "name": "Nemanja Bjelica",
+    "points": 27.91
+  },
+  {
+    "name": "Tyson Chandler",
+    "points": 3.99
+  },
+  {
+    "name": "Gary Clark",
+    "points": 4.6
+  },
+  {
+    "name": "P.J. Tucker",
+    "points": 24.4
+  },
+  {
+    "name": "Danuel House Jr.",
+    "points": 21.79
+  },
+  {
+    "name": "Clint Capela",
+    "points": 41.59
+  },
+  {
+    "name": "Ben McLemore",
+    "points": 20.47
+  },
+  {
+    "name": "Austin Rivers",
+    "points": 11.12
+  },
+  {
+    "name": "Meyers Leonard",
+    "points": 14.02
+  },
+  {
+    "name": "Duncan Robinson",
+    "points": 18.55
+  },
+  {
+    "name": "Mohamed Bamba",
+    "points": 17.87
+  },
+  {
+    "name": "Wes Iwundu",
+    "points": 12.25
+  },
+  {
+    "name": "Ben Simmons",
+    "points": 42.59
+  },
+  {
+    "name": "Josh Richardson",
+    "points": 27.93
+  },
+  {
+    "name": "Tobias Harris",
+    "points": 35.51
+  },
+  {
+    "name": "Terrence Ross",
+    "points": 20.58
+  },
+  {
+    "name": "D.J. Augustin",
+    "points": 21.27
+  },
+  {
+    "name": "Evan Fournier",
+    "points": 26.98
+  },
+  {
+    "name": "Markelle Fultz",
+    "points": 23.87
+  },
+  {
+    "name": "Aaron Gordon",
+    "points": 29.47
+  },
+  {
+    "name": "Jonathan Isaac",
+    "points": 33.03
+  },
+  {
+    "name": "Nikola Vucevic",
+    "points": 44.58
+  },
+  {
+    "name": "Al Horford",
+    "points": 30.07
+  },
+  {
+    "name": "Joel Embiid",
+    "points": 47
+  },
+  {
+    "name": "Andre Drummond",
+    "points": 51.04
+  },
+  {
+    "name": "Blake Griffin",
+    "points": 27.29
+  },
+  {
+    "name": "Derrick Rose",
+    "points": 29.05
+  },
+  {
+    "name": "Langston Galloway",
+    "points": 13.14
+  },
+  {
+    "name": "Markieff Morris",
+    "points": 16.03
+  },
+  {
+    "name": "Tony Snell",
+    "points": 16.21
+  },
+  {
+    "name": "Bruce Brown",
+    "points": 18.06
+  },
+  {
+    "name": "Furkan Korkmaz",
+    "points": 12.21
+  },
+  {
+    "name": "James Ennis III",
+    "points": 13.77
+  },
+  {
+    "name": "Mike Scott",
+    "points": 11.72
+  },
+  {
+    "name": "Trey Burke",
+    "points": 12.44
+  },
+  {
+    "name": "Shake Milton",
+    "points": 7.71
+  },
+  {
+    "name": "Ryan Arcidiacono",
+    "points": 7.92
+  },
+  {
+    "name": "Denzel Valentine",
+    "points": 15.54
+  },
+  {
+    "name": "Malcolm Brogdon",
+    "points": 37.74
+  },
+  {
+    "name": "Chris Boucher",
+    "points": 18.91
+  },
+  {
+    "name": "Jeremy Lamb",
+    "points": 21.35
+  },
+  {
+    "name": "TJ Warren",
+    "points": 24.19
+  },
+  {
+    "name": "Domantas Sabonis",
+    "points": 41.7
+  },
+  {
+    "name": "Malcolm Miller",
+    "points": 9.02
+  },
+  {
+    "name": "Terence Davis",
+    "points": 14.47
+  },
+  {
+    "name": "Patrick McCaw",
+    "points": 16.29
+  },
+  {
+    "name": "Fred VanVleet",
+    "points": 32.9
+  },
+  {
+    "name": "OG Anunoby",
+    "points": 23.48
+  },
+  {
+    "name": "Serge Ibaka",
+    "points": 40.73
+  },
+  {
+    "name": "Rondae Hollis-Jefferson",
+    "points": 20.21
+  },
+  {
+    "name": "Myles Turner",
+    "points": 24.91
+  },
+  {
+    "name": "Doug McDermott",
+    "points": 13.33
+  },
+  {
+    "name": "Wendell Carter",
+    "points": 30.41
+  },
+  {
+    "name": "Lauri Markkanen",
+    "points": 27.81
+  },
+  {
+    "name": "Thaddeus Young",
+    "points": 18.42
+  },
+  {
+    "name": "Coby White",
+    "points": 17.94
+  },
+  {
+    "name": "Daniel Gafford",
+    "points": 8.57
+  },
+  {
+    "name": "Kris Dunn",
+    "points": 25.63
+  },
+  {
+    "name": "Zach LaVine",
+    "points": 36.79
+  },
+  {
+    "name": "Justin Holiday",
+    "points": 17.06
+  },
+  {
+    "name": "Aaron Holiday",
+    "points": 17.73
+  },
+  {
+    "name": "T.J. McConnell",
+    "points": 16.9
+  },
+  {
+    "name": "Goga Bitadze",
+    "points": 6.88
+  },
+  {
+    "name": "Tomas Satoransky",
+    "points": 26.19
+  },
+  {
+    "name": "Svi Mykhailiuk",
+    "points": 14.84
+  },
+  {
+    "name": "Thon Maker",
+    "points": 8.25
+  },
+  {
+    "name": "Bobby Portis",
+    "points": 20.7
+  },
+  {
+    "name": "Mitchell Robinson",
+    "points": 33.2
+  },
+  {
+    "name": "Kevin Knox",
+    "points": 20.6
+  },
+  {
+    "name": "Damyean Dotson",
+    "points": 16.85
+  },
+  {
+    "name": "Frank Ntilikina",
+    "points": 9.72
+  },
+  {
+    "name": "Taj Gibson",
+    "points": 14.15
+  },
+  {
+    "name": "Julius Randle",
+    "points": 37.88
+  },
+  {
+    "name": "Garrison Mathews",
+    "points": 14.38
+  },
+  {
+    "name": "Anzejs Pasecniks",
+    "points": 18.87
+  },
+  {
+    "name": "Justin Robinson",
+    "points": 8.28
+  },
+  {
+    "name": "Elfrid Payton",
+    "points": 29.45
+  },
+  {
+    "name": "RJ Barrett",
+    "points": 30.17
+  },
+  {
+    "name": "Dennis Smith Jr.",
+    "points": 14
+  },
+  {
+    "name": "Allonzo Trier",
+    "points": 8.48
+  },
+  {
+    "name": "Georges Niang",
+    "points": 11.53
+  },
+  {
+    "name": "Jeff Green",
+    "points": 13.09
+  },
+  {
+    "name": "Ed Davis",
+    "points": 13.91
+  },
+  {
+    "name": "Kendrick Nunn",
+    "points": 24.03
+  },
+  {
+    "name": "Jimmy Butler",
+    "points": 41.36
+  },
+  {
+    "name": "Emmanuel Mudiay",
+    "points": 15.42
+  },
+  {
+    "name": "Rudy Gobert",
+    "points": 39.71
+  },
+  {
+    "name": "Donovan Mitchell",
+    "points": 37.05
+  },
+  {
+    "name": "Gary Payton II",
+    "points": 5.99
+  },
+  {
+    "name": "Joe Ingles",
+    "points": 26.49
+  },
+  {
+    "name": "Royce O'Neale",
+    "points": 18.07
+  },
+  {
+    "name": "Bojan Bogdanovic",
+    "points": 30.91
+  },
+  {
+    "name": "Troy Brown Jr.",
+    "points": 27.69
+  },
+  {
+    "name": "Ian Mahinmi",
+    "points": 22.01
+  },
+  {
+    "name": "Jabari Parker",
+    "points": 21.5
+  },
+  {
+    "name": "Cam Reddish",
+    "points": 20.99
+  },
+  {
+    "name": "DeAndre Bembry",
+    "points": 10.56
+  },
+  {
+    "name": "Allen Crabbe",
+    "points": 9.53
+  },
+  {
+    "name": "Vince Carter",
+    "points": 4.29
+  },
+  {
+    "name": "Alex Len",
+    "points": 19.66
+  },
+  {
+    "name": "Bruno Fernando",
+    "points": 12.71
+  },
+  {
+    "name": "Trae Young",
+    "points": 50.45
+  },
+  {
+    "name": "Christian Wood",
+    "points": 11
+  },
+  {
+    "name": "Kevin Huerter",
+    "points": 26.18
+  },
+  {
+    "name": "De'Andre Hunter",
+    "points": 22.98
+  },
+  {
+    "name": "John Collins",
+    "points": 34.01
+  },
+  {
+    "name": "Darius Garland",
+    "points": 23.09
+  },
+  {
+    "name": "Collin Sexton",
+    "points": 28.52
+  },
+  {
+    "name": "Ish Smith",
+    "points": 31.28
+  },
+  {
+    "name": "Matthew Dellavedova",
+    "points": 11.12
+  },
+  {
+    "name": "Bradley Beal",
+    "points": 52.27
+  },
+  {
+    "name": "Isaac Bonga",
+    "points": 18.88
+  },
+  {
+    "name": "Admiral Schofield",
+    "points": 22.14
+  },
+  {
+    "name": "John Henson",
+    "points": 16.66
+  },
+  {
+    "name": "Larry Nance Jr.",
+    "points": 20.52
+  },
+  {
+    "name": "Kevin Love",
+    "points": 33.76
+  },
+  {
+    "name": "Cedi Osman",
+    "points": 18.73
+  },
+  {
+    "name": "Tristan Thompson",
+    "points": 33.59
+  },
+  {
+    "name": "Jordan Clarkson",
+    "points": 23.86
+  },
+  {
+    "name": "Kevin Porter Jr.",
+    "points": 20.33
+  },
+  {
+    "name": "Kyle Lowry",
+    "points": 39.86
+  }
+]
